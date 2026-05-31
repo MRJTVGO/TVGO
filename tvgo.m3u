@@ -1,119 +1,137 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ONCE MEXICO" tvg-logo="https://placehold.co/300x300/red/white/png?text=ONCE+MEXICO" group-title="Noticias / Cultura",ONCE MEXICO
+#EXTINF:-1 tvg-name="AZTECA UNO" tvg-logo="https://ui-avatars.com/api/?name=AZTECA+UNO&background=fdd835&color=ffffff&bold=true&size=256&format=png" group-title="TV Abierta",AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8playlist.m3u8
+#EXTINF:-1 tvg-name="LAS ESTRELLAS" tvg-logo="https://ui-avatars.com/api/?name=LAS+ESTRELLAS&background=039be5&color=ffffff&bold=true&size=256&format=png" group-title="TV Abierta",LAS ESTRELLAS
+http://45.5.119.43:4000/play/a05j/index.m3u8
+#EXTINF:-1 tvg-name="CANAL CINCO" tvg-logo="https://ui-avatars.com/api/?name=CANAL+CINCO&background=3949ab&color=ffffff&bold=true&size=256&format=png" group-title="TV Abierta",CANAL CINCO
+http://45.5.119.43:4000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-name="MULTIMEDIOS" tvg-logo="https://ui-avatars.com/api/?name=MULTIMEDIOS&background=43a047&color=ffffff&bold=true&size=256&format=png" group-title="TV Abierta",MULTIMEDIOS
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-name="AZTECA SIETE" tvg-logo="https://ui-avatars.com/api/?name=AZTECA+SIETE&background=039be5&color=ffffff&bold=true&size=256&format=png" group-title="TV Abierta",AZTECA SIETE
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-name="A+ MAS" tvg-logo="https://ui-avatars.com/api/?name=A+MAS&background=e53935&color=ffffff&bold=true&size=256&format=png" group-title="TV Abierta",A+ MAS
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-name="ONCE MEXICO" tvg-logo="https://ui-avatars.com/api/?name=ONCE+MEXICO&background=fb8c00&color=ffffff&bold=true&size=256&format=png" group-title="TV Abierta",ONCE MEXICO
 https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NOTIGRAM DGO" tvg-logo="https://placehold.co/300x300/blue/white/png?text=NOTIGRAM+DGO" group-title="Durango",NOTIGRAM DGO
-https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UNAM TV" tvg-logo="https://placehold.co/300x300/green/white/png?text=UNAM+TV" group-title="Noticias / Cultura",UNAM TV
+#EXTINF:-1 tvg-name="UNAM TV" tvg-logo="https://ui-avatars.com/api/?name=UNAM+TV&background=d81b60&color=ffffff&bold=true&size=256&format=png" group-title="TV Abierta",UNAM TV
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMX NOTICIAS" tvg-logo="https://placehold.co/300x300/purple/white/png?text=AMX+NOTICIAS" group-title="Noticias / Cultura",AMX NOTICIAS
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="https://placehold.co/300x300/orange/white/png?text=DE+PELICULA" group-title="Cine",DE PELICULA
-http://45.5.119.43:4000/play/a05n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEFORMULA" tvg-logo="https://placehold.co/300x300/pink/white/png?text=TELEFORMULA" group-title="Noticias / Cultura",TELEFORMULA
-https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS" tvg-logo="https://placehold.co/300x300/cyan/white/png?text=TELENOVELAS" group-title="Entretenimiento / Novelas",TELENOVELAS
-http://45.5.119.43:4000/play/a05k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MARIA VISION DGO" tvg-logo="https://placehold.co/300x300/yellow/white/png?text=MARIA+VISION+DGO" group-title="Durango",MARIA VISION DGO
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELE RITMO" tvg-logo="https://placehold.co/300x300/lime/white/png?text=TELE+RITMO" group-title="Música",TELE RITMO
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXA TV" tvg-logo="https://placehold.co/300x300/teal/white/png?text=EXA+TV" group-title="Música",EXA TV
-http://45.5.119.43:4000/play/a0hk/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSICA RETRO" tvg-logo="https://placehold.co/300x300/red/white/png?text=MUSICA+RETRO" group-title="Música",MUSICA RETRO
-https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="CANECTA TV" tvg-logo="https://placehold.co/300x300/blue/white/png?text=CANECTA+TV" group-title="Variedades",CANECTA TV
-https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV MAR" tvg-logo="https://placehold.co/300x300/green/white/png?text=TV+MAR" group-title="Variedades",TV MAR
-https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TURISTIK TV" tvg-logo="https://placehold.co/300x300/purple/white/png?text=TURISTIK+TV" group-title="Variedades",TURISTIK TV
-https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PRESUMIENDO MX" tvg-logo="https://placehold.co/300x300/orange/white/png?text=PRESUMIENDO+MX" group-title="Variedades",PRESUMIENDO MX
-https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SALUD TV" tvg-logo="https://placehold.co/300x300/pink/white/png?text=SALUD+TV" group-title="Variedades",SALUD TV
-https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UNICABLE" tvg-logo="https://placehold.co/300x300/cyan/white/png?text=UNICABLE" group-title="Entretenimiento / Novelas",UNICABLE
-http://38.49.128.38:8000/play/a0ov/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://placehold.co/300x300/yellow/white/png?text=TELEMUNDO" group-title="Entretenimiento / Novelas",TELEMUNDO
-http://45.5.119.43:4000/play/a0gv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://placehold.co/300x300/lime/white/png?text=UNIVISION" group-title="Entretenimiento / Novelas",UNIVISION
-http://45.5.119.43:4000/play/a0kr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AZ INTERNACIONAL" tvg-logo="https://placehold.co/300x300/teal/white/png?text=AZ+INTERNACIONAL" group-title="Entretenimiento / Novelas",AZ INTERNACIONAL
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AZ CLICK" tvg-logo="https://placehold.co/300x300/red/white/png?text=AZ+CLICK" group-title="Entretenimiento / Novelas",AZ CLICK
-http://45.5.119.43:4000/play/a0gz/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AZ CORAZON" tvg-logo="https://placehold.co/300x300/blue/white/png?text=AZ+CORAZON" group-title="Entretenimiento / Novelas",AZ CORAZON
-http://45.5.119.43:4000/play/a0g6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EL CHAVO 24/7" tvg-logo="https://placehold.co/300x300/green/white/png?text=EL+CHAVO+24/7" group-title="Entretenimiento / Novelas",EL CHAVO 24/7
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADULT SWIMN DGO" tvg-logo="https://placehold.co/300x300/purple/white/png?text=ADULT+SWIMN+DGO" group-title="Durango",ADULT SWIMN DGO
-http://45.5.119.43:4000/play/a051/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY" tvg-logo="https://placehold.co/300x300/orange/white/png?text=DISNEY" group-title="Infantiles",DISNEY
-http://45.5.119.43:4000/play/a0i8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="https://placehold.co/300x300/pink/white/png?text=DISNEY+JR" group-title="Infantiles",DISNEY JR
-http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST DGO" tvg-logo="https://placehold.co/300x300/cyan/white/png?text=TOONCAST+DGO" group-title="Durango",TOONCAST DGO
-http://45.5.119.43:4000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://placehold.co/300x300/yellow/white/png?text=COMEDY+CENTRAL" group-title="Variedades",COMEDY CENTRAL
-https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADRENALINA CINE" tvg-logo="https://placehold.co/300x300/lime/white/png?text=ADRENALINA+CINE" group-title="Cine",ADRENALINA CINE
-https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CLASICO CINE" tvg-logo="https://placehold.co/300x300/teal/white/png?text=CLASICO+CINE" group-title="Cine",CLASICO CINE
-https://jmp2.uk/plu-64b9671cdac71b0008f371df.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COMEDIA CINE" tvg-logo="https://placehold.co/300x300/red/white/png?text=COMEDIA+CINE" group-title="Cine",COMEDIA CINE
-https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TERROR CINE" tvg-logo="https://placehold.co/300x300/blue/white/png?text=TERROR+CINE" group-title="Cine",TERROR CINE
-https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PREMIER CINE" tvg-logo="https://placehold.co/300x300/green/white/png?text=PREMIER+CINE" group-title="Cine",PREMIER CINE
-https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LAINO CINE" tvg-logo="https://placehold.co/300x300/purple/white/png?text=LAINO+CINE" group-title="Cine",LAINO CINE
-http://45.5.119.43:4000/play/a0ik/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY CINE" tvg-logo="https://placehold.co/300x300/orange/white/png?text=SONY+CINE" group-title="Cine",SONY CINE
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY CHANEL" tvg-logo="https://placehold.co/300x300/pink/white/png?text=SONY+CHANEL" group-title="Entretenimiento / Novelas",SONY CHANEL
-http://45.5.119.43:4000/play/a0hp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN" tvg-logo="https://placehold.co/300x300/cyan/white/png?text=GOLDEN" group-title="Cine",GOLDEN
-http://45.5.119.43:4000/play/a0jv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://placehold.co/300x300/yellow/white/png?text=HBO" group-title="Cine",HBO
-http://45.5.119.43:4000/play/a0l2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIER" tvg-logo="https://placehold.co/300x300/lime/white/png?text=UNIVERSAL+PREMIER" group-title="Cine",UNIVERSAL PREMIER
-http://45.5.119.43:4000/play/a0i2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://placehold.co/300x300/teal/white/png?text=MTV" group-title="Música",MTV
-https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://placehold.co/300x300/red/white/png?text=NICKELODEON" group-title="Infantiles",NICKELODEON
-https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELLA TV" tvg-logo="https://placehold.co/300x300/blue/white/png?text=ESTRELLA+TV" group-title="Entretenimiento / Novelas",ESTRELLA TV
-https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PASIONES NOVELAS" tvg-logo="https://placehold.co/300x300/green/white/png?text=PASIONES+NOVELAS" group-title="Entretenimiento / Novelas",PASIONES NOVELAS
-http://45.5.119.43:4000/play/a0kq/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CSI 24/7" tvg-logo="https://placehold.co/300x300/purple/white/png?text=CSI+24/7" group-title="Series 24/7",CSI 24/7
-https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CSI MIAMI 24/7" tvg-logo="https://placehold.co/300x300/orange/white/png?text=CSI+MIAMI+24/7" group-title="Series 24/7",CSI MIAMI 24/7
-https://jmp2.uk/plu-632b5950b515b000079e6b81.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LAW & ORDER 24/7" tvg-logo="https://placehold.co/300x300/pink/white/png?text=LAW+%26+ORDER+24/7" group-title="Series 24/7",LAW & ORDER 24/7
-https://jmp2.uk/plu-68758038552299d2b08162e3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CRIMINAL MINDS24/7" tvg-logo="https://placehold.co/300x300/cyan/white/png?text=CRIMINAL+MINDS24/7" group-title="Series 24/7",CRIMINAL MINDS24/7
-https://jmp2.uk/plu-65653817c917a5000844bc30.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PRIDE TV" tvg-logo="https://placehold.co/300x300/yellow/white/png?text=PRIDE+TV" group-title="Variedades",PRIDE TV
-https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="LOBOS" tvg-logo="https://placehold.co/300x300/lime/white/png?text=LOBOS" group-title="Variedades",LOBOS
-https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA DGO" tvg-logo="https://placehold.co/300x300/teal/white/png?text=ESPAÑA+DGO" group-title="Durango",ESPAÑA DGO
-https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 10 DGO" tvg-logo="https://placehold.co/300x300/red/white/png?text=CANAL+10+DGO" group-title="Durango",CANAL 10 DGO
-https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO" tvg-logo="https://placehold.co/300x300/blue/white/png?text=AZTECA+UNO" group-title="Variedades",AZTECA UNO
-https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 14 DGO" tvg-logo="https://placehold.co/300x300/green/white/png?text=CANAL+14+DGO" group-title="Durango",CANAL 14 DGO
-https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO -1HR" tvg-logo="https://placehold.co/300x300/purple/white/png?text=AZTECA+UNO+-1HR" group-title="Variedades",AZTECA UNO -1HR
+#EXTINF:-1 tvg-name="AZTECA UNO -1HR" tvg-logo="https://ui-avatars.com/api/?name=AZTECA+UNO+1HR&background=d81b60&color=ffffff&bold=true&size=256&format=png" group-title="TV Abierta",AZTECA UNO -1HR
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8?includeAllStreams=1&X-Plex-Product=Plex Mediaverse&X-Plex-Token=-7NQpirdawiovDXwMshk
-#EXTINF:-1 tvg-id="" tvg-name="VIDEO ROLA" tvg-logo="https://placehold.co/300x300/orange/white/png?text=VIDEO+ROLA" group-title="Música",VIDEO ROLA
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65a1d3996475bf522f9256e3.m3u8?includeAllStreams=1&X-Plex-Product=Plex Mediaverse&X-Plex-Token=puxTwnx3TMTcxGY3wCFy
-#EXTINF:-1 tvg-id="" tvg-name="PRIDETV DGO" tvg-logo="https://placehold.co/300x300/pink/white/png?text=PRIDETV+DGO" group-title="Durango",PRIDETV DGO
-https://backend.energeek.cl/webtv/pridetvweb/tracks-v1a1/mono.ts.m3u8?token=dem0pRideTVweb
-#EXTINF:-1 tvg-id="" tvg-name="BITME DGO" tvg-logo="https://placehold.co/300x300/cyan/white/png?text=BITME+DGO" group-title="Durango",BITME DGO
-http://200.59.188.3:8000/play/a159
-#EXTINF:-1 tvg-id="" tvg-name="BANDAMAX" tvg-logo="https://placehold.co/300x300/yellow/white/png?text=BANDAMAX" group-title="Música",BANDAMAX
-http://45.186.105.185:8000/play/a05r/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IMAGEN TV" tvg-logo="https://placehold.co/300x300/lime/white/png?text=IMAGEN+TV" group-title="Noticias / Cultura",IMAGEN TV
+#EXTINF:-1 tvg-name="IMAGEN TV" tvg-logo="https://ui-avatars.com/api/?name=IMAGEN+TV&background=8e24aa&color=ffffff&bold=true&size=256&format=png" group-title="TV Abierta",IMAGEN TV
 http://201.151.118.136:8000/play/a001
+#EXTINF:-1 tvg-name="AZTECA UNO INTERNACIONAL" tvg-logo="https://ui-avatars.com/api/?name=AZTECA+UNO+INTERNACIONAL&background=3949ab&color=ffffff&bold=true&size=256&format=png" group-title="TV Abierta",AZTECA UNO INTERNACIONAL
+http://200.115.96.66:4000/play/a011
+#EXTINF:-1 tvg-name="TV LOBOS DGO" tvg-logo="https://ui-avatars.com/api/?name=TV+LOBOS+DGO&background=d81b60&color=ffffff&bold=true&size=256&format=png" group-title="Durango",TV LOBOS DGO
+https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
+#EXTINF:-1 tvg-name="UNES DGO" tvg-logo="https://ui-avatars.com/api/?name=UNES+DGO&background=d81b60&color=ffffff&bold=true&size=256&format=png" group-title="Durango",UNES DGO
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+#EXTINF:-1 tvg-name="CANAL 10 DGO" tvg-logo="https://ui-avatars.com/api/?name=CANAL+10+DGO&background=fdd835&color=ffffff&bold=true&size=256&format=png" group-title="Durango",CANAL 10 DGO
+https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
+#EXTINF:-1 tvg-name="NOTIGRAM DGO" tvg-logo="https://ui-avatars.com/api/?name=NOTIGRAM+DGO&background=e53935&color=ffffff&bold=true&size=256&format=png" group-title="Durango",NOTIGRAM DGO
+https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
+#EXTINF:-1 tvg-name="MARIA VISION DGO" tvg-logo="https://ui-avatars.com/api/?name=MARIA+VISION+DGO&background=6d4c41&color=ffffff&bold=true&size=256&format=png" group-title="Durango",MARIA VISION DGO
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+#EXTINF:-1 tvg-name="ADULT SWIMN DGO" tvg-logo="https://ui-avatars.com/api/?name=ADULT+SWIMN+DGO&background=6d4c41&color=ffffff&bold=true&size=256&format=png" group-title="Durango",ADULT SWIMN DGO
+http://45.5.119.43:4000/play/a051/index.m3u8
+#EXTINF:-1 tvg-name="TOONCAST DGO" tvg-logo="https://ui-avatars.com/api/?name=TOONCAST+DGO&background=7cb342&color=ffffff&bold=true&size=256&format=png" group-title="Durango",TOONCAST DGO
+http://45.5.119.43:4000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-name="CANAL 14 DGO" tvg-logo="https://ui-avatars.com/api/?name=CANAL+14+DGO&background=fdd835&color=ffffff&bold=true&size=256&format=png" group-title="Durango",CANAL 14 DGO
+https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
+#EXTINF:-1 tvg-name="PRIDETV DGO" tvg-logo="https://ui-avatars.com/api/?name=PRIDETV+DGO&background=43a047&color=ffffff&bold=true&size=256&format=png" group-title="Durango",PRIDETV DGO
+https://backend.energeek.cl/webtv/pridetvweb/tracks-v1a1/mono.ts.m3u8?token=dem0pRideTVweb
+#EXTINF:-1 tvg-name="BITME DGO" tvg-logo="https://ui-avatars.com/api/?name=BITME+DGO&background=fb8c00&color=ffffff&bold=true&size=256&format=png" group-title="Durango",BITME DGO
+http://200.59.188.3:8000/play/a159
+#EXTINF:-1 tvg-name="ADN 40" tvg-logo="https://ui-avatars.com/api/?name=ADN+40&background=d81b60&color=ffffff&bold=true&size=256&format=png" group-title="Noticias",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-name="MILENIO TV" tvg-logo="https://ui-avatars.com/api/?name=MILENIO+TV&background=6d4c41&color=ffffff&bold=true&size=256&format=png" group-title="Noticias",MILENIO TV
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 tvg-name="AMX NOTICIAS" tvg-logo="https://ui-avatars.com/api/?name=AMX+NOTICIAS&background=43a047&color=ffffff&bold=true&size=256&format=png" group-title="Noticias",AMX NOTICIAS
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-name="TELEFORMULA" tvg-logo="https://ui-avatars.com/api/?name=TELEFORMULA&background=00acc1&color=ffffff&bold=true&size=256&format=png" group-title="Noticias",TELEFORMULA
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-name="DE PELICULA" tvg-logo="https://ui-avatars.com/api/?name=DE+PELICULA&background=fdd835&color=ffffff&bold=true&size=256&format=png" group-title="Peliculas",DE PELICULA
+http://45.5.119.43:4000/play/a05n/index.m3u8
+#EXTINF:-1 tvg-name="ADRENALINA CINE" tvg-logo="https://ui-avatars.com/api/?name=ADRENALINA+CINE&background=7cb342&color=ffffff&bold=true&size=256&format=png" group-title="Peliculas",ADRENALINA CINE
+https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
+#EXTINF:-1 tvg-name="CLASICO CINE" tvg-logo="https://ui-avatars.com/api/?name=CLASICO+CINE&background=7cb342&color=ffffff&bold=true&size=256&format=png" group-title="Peliculas",CLASICO CINE
+https://jmp2.uk/plu-64b9671cdac71b0008f371df.m3u8
+#EXTINF:-1 tvg-name="COMEDIA CINE" tvg-logo="https://ui-avatars.com/api/?name=COMEDIA+CINE&background=fdd835&color=ffffff&bold=true&size=256&format=png" group-title="Peliculas",COMEDIA CINE
+https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
+#EXTINF:-1 tvg-name="TERROR CINE" tvg-logo="https://ui-avatars.com/api/?name=TERROR+CINE&background=8e24aa&color=ffffff&bold=true&size=256&format=png" group-title="Peliculas",TERROR CINE
+https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
+#EXTINF:-1 tvg-name="PREMIER CINE" tvg-logo="https://ui-avatars.com/api/?name=PREMIER+CINE&background=d81b60&color=ffffff&bold=true&size=256&format=png" group-title="Peliculas",PREMIER CINE
+https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
+#EXTINF:-1 tvg-name="LAINO CINE" tvg-logo="https://ui-avatars.com/api/?name=LAINO+CINE&background=fb8c00&color=ffffff&bold=true&size=256&format=png" group-title="Peliculas",LAINO CINE
+http://45.5.119.43:4000/play/a0ik/index.m3u8
+#EXTINF:-1 tvg-name="SONY CINE" tvg-logo="https://ui-avatars.com/api/?name=SONY+CINE&background=039be5&color=ffffff&bold=true&size=256&format=png" group-title="Peliculas",SONY CINE
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="GOLDEN" tvg-logo="https://ui-avatars.com/api/?name=GOLDEN&background=7cb342&color=ffffff&bold=true&size=256&format=png" group-title="Peliculas",GOLDEN
+http://45.5.119.43:4000/play/a0jv/index.m3u8
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://ui-avatars.com/api/?name=HBO&background=00897b&color=ffffff&bold=true&size=256&format=png" group-title="Peliculas",HBO
+http://45.5.119.43:4000/play/a0l2/index.m3u8
+#EXTINF:-1 tvg-name="UNIVERSAL PREMIER" tvg-logo="https://ui-avatars.com/api/?name=UNIVERSAL+PREMIER&background=00897b&color=ffffff&bold=true&size=256&format=png" group-title="Peliculas",UNIVERSAL PREMIER
+http://45.5.119.43:4000/play/a0i2/index.m3u8
+#EXTINF:-1 tvg-name="TELENOVELAS" tvg-logo="https://ui-avatars.com/api/?name=TELENOVELAS&background=fb8c00&color=ffffff&bold=true&size=256&format=png" group-title="Entretenimiento",TELENOVELAS
+http://45.5.119.43:4000/play/a05k/index.m3u8
+#EXTINF:-1 tvg-name="UNICABLE" tvg-logo="https://ui-avatars.com/api/?name=UNICABLE&background=d81b60&color=ffffff&bold=true&size=256&format=png" group-title="Entretenimiento",UNICABLE
+http://38.49.128.38:8000/play/a0ov/index.m3u8
+#EXTINF:-1 tvg-name="TELEMUNDO" tvg-logo="https://ui-avatars.com/api/?name=TELEMUNDO&background=8e24aa&color=ffffff&bold=true&size=256&format=png" group-title="Entretenimiento",TELEMUNDO
+http://45.5.119.43:4000/play/a0gv/index.m3u8
+#EXTINF:-1 tvg-name="UNIVISION" tvg-logo="https://ui-avatars.com/api/?name=UNIVISION&background=3949ab&color=ffffff&bold=true&size=256&format=png" group-title="Entretenimiento",UNIVISION
+http://45.5.119.43:4000/play/a0kr/index.m3u8
+#EXTINF:-1 tvg-name="AZ MUNDO" tvg-logo="https://ui-avatars.com/api/?name=AZ+MUNDO&background=039be5&color=ffffff&bold=true&size=256&format=png" group-title="Entretenimiento",AZ MUNDO
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-name="AZ CLICK" tvg-logo="https://ui-avatars.com/api/?name=AZ+CLICK&background=00897b&color=ffffff&bold=true&size=256&format=png" group-title="Entretenimiento",AZ CLICK
+http://45.5.119.43:4000/play/a0gz/index.m3u8
+#EXTINF:-1 tvg-name="AZ CORAZON" tvg-logo="https://ui-avatars.com/api/?name=AZ+CORAZON&background=43a047&color=ffffff&bold=true&size=256&format=png" group-title="Entretenimiento",AZ CORAZON
+http://45.5.119.43:4000/play/a0g6/index.m3u8
+#EXTINF:-1 tvg-name="ESTRELLA TV" tvg-logo="https://ui-avatars.com/api/?name=ESTRELLA+TV&background=039be5&color=ffffff&bold=true&size=256&format=png" group-title="Entretenimiento",ESTRELLA TV
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="PASIONES NOVELAS" tvg-logo="https://ui-avatars.com/api/?name=PASIONES+NOVELAS&background=43a047&color=ffffff&bold=true&size=256&format=png" group-title="Entretenimiento",PASIONES NOVELAS
+http://45.5.119.43:4000/play/a0kq/index.m3u8
+#EXTINF:-1 tvg-name="EL CHAVO 24/7" tvg-logo="https://ui-avatars.com/api/?name=EL+CHAVO+24+7&background=43a047&color=ffffff&bold=true&size=256&format=png" group-title="Infantiles",EL CHAVO 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1 tvg-name="DISNEY" tvg-logo="https://ui-avatars.com/api/?name=DISNEY&background=039be5&color=ffffff&bold=true&size=256&format=png" group-title="Infantiles",DISNEY
+http://45.5.119.43:4000/play/a0i8/index.m3u8
+#EXTINF:-1 tvg-name="DISNEY JR" tvg-logo="https://ui-avatars.com/api/?name=DISNEY+JR&background=43a047&color=ffffff&bold=true&size=256&format=png" group-title="Infantiles",DISNEY JR
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="https://ui-avatars.com/api/?name=NICKELODEON&background=fb8c00&color=ffffff&bold=true&size=256&format=png" group-title="Infantiles",NICKELODEON
+https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+#EXTINF:-1 tvg-name="TELE RITMO" tvg-logo="https://ui-avatars.com/api/?name=TELE+RITMO&background=43a047&color=ffffff&bold=true&size=256&format=png" group-title="Musica",TELE RITMO
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-name="EXA TV" tvg-logo="https://ui-avatars.com/api/?name=EXA+TV&background=039be5&color=ffffff&bold=true&size=256&format=png" group-title="Musica",EXA TV
+http://45.5.119.43:4000/play/a0hk/index.m3u8
+#EXTINF:-1 tvg-name="MUSICA RETRO" tvg-logo="https://ui-avatars.com/api/?name=MUSICA+RETRO&background=3949ab&color=ffffff&bold=true&size=256&format=png" group-title="Musica",MUSICA RETRO
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://ui-avatars.com/api/?name=MTV&background=6d4c41&color=ffffff&bold=true&size=256&format=png" group-title="Musica",MTV
+https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
+#EXTINF:-1 tvg-name="VIDEO ROLA" tvg-logo="https://ui-avatars.com/api/?name=VIDEO+ROLA&background=3949ab&color=ffffff&bold=true&size=256&format=png" group-title="Musica",VIDEO ROLA
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65a1d3996475bf522f9256e3.m3u8?includeAllStreams=1&X-Plex-Product=Plex Mediaverse&X-Plex-Token=puxTwnx3TMTcxGY3wCFy
+#EXTINF:-1 tvg-name="BANDAMAX" tvg-logo="https://ui-avatars.com/api/?name=BANDAMAX&background=00897b&color=ffffff&bold=true&size=256&format=png" group-title="Musica",BANDAMAX
+http://45.186.105.185:8000/play/a05r/index.m3u8
+#EXTINF:-1 tvg-name="CSI 24/7" tvg-logo="https://ui-avatars.com/api/?name=CSI+24+7&background=00acc1&color=ffffff&bold=true&size=256&format=png" group-title="Series 24/7",CSI 24/7
+https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8
+#EXTINF:-1 tvg-name="CSI MIAMI 24/7" tvg-logo="https://ui-avatars.com/api/?name=CSI+MIAMI+24+7&background=3949ab&color=ffffff&bold=true&size=256&format=png" group-title="Series 24/7",CSI MIAMI 24/7
+https://jmp2.uk/plu-632b5950b515b000079e6b81.m3u8
+#EXTINF:-1 tvg-name="LAW &amp; ORDER 24/7" tvg-logo="https://ui-avatars.com/api/?name=LAW+ORDER+24+7&background=00acc1&color=ffffff&bold=true&size=256&format=png" group-title="Series 24/7",LAW & ORDER 24/7
+https://jmp2.uk/plu-68758038552299d2b08162e3.m3u8
+#EXTINF:-1 tvg-name="CRIMINAL MINDS24/7" tvg-logo="https://ui-avatars.com/api/?name=CRIMINAL+MINDS24+7&background=fdd835&color=ffffff&bold=true&size=256&format=png" group-title="Series 24/7",CRIMINAL MINDS24/7
+https://jmp2.uk/plu-65653817c917a5000844bc30.m3u8
+#EXTINF:-1 tvg-name="CANECTA TV" tvg-logo="https://ui-avatars.com/api/?name=CANECTA+TV&background=6d4c41&color=ffffff&bold=true&size=256&format=png" group-title="Variedad",CANECTA TV
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+#EXTINF:-1 tvg-name="TV MAR" tvg-logo="https://ui-avatars.com/api/?name=TV+MAR&background=6d4c41&color=ffffff&bold=true&size=256&format=png" group-title="Variedad",TV MAR
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TURISTIK TV" tvg-logo="https://ui-avatars.com/api/?name=TURISTIK+TV&background=3949ab&color=ffffff&bold=true&size=256&format=png" group-title="Variedad",TURISTIK TV
+https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
+#EXTINF:-1 tvg-name="PRESUMIENDO MX" tvg-logo="https://ui-avatars.com/api/?name=PRESUMIENDO+MX&background=8e24aa&color=ffffff&bold=true&size=256&format=png" group-title="Variedad",PRESUMIENDO MX
+https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="SALUD TV" tvg-logo="https://ui-avatars.com/api/?name=SALUD+TV&background=3949ab&color=ffffff&bold=true&size=256&format=png" group-title="Variedad",SALUD TV
+https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/playlist.m3u8
+#EXTINF:-1 tvg-name="COMEDY CENTRAL" tvg-logo="https://ui-avatars.com/api/?name=COMEDY+CENTRAL&background=d81b60&color=ffffff&bold=true&size=256&format=png" group-title="Variedad",COMEDY CENTRAL
+https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
+#EXTINF:-1 tvg-name="SONY CHANEL" tvg-logo="https://ui-avatars.com/api/?name=SONY+CHANEL&background=fb8c00&color=ffffff&bold=true&size=256&format=png" group-title="Variedad",SONY CHANEL
+http://45.5.119.43:4000/play/a0hp/index.m3u8
+#EXTINF:-1 tvg-name="COMEDY CENTRAL" tvg-logo="https://ui-avatars.com/api/?name=COMEDY+CENTRAL&background=d81b60&color=ffffff&bold=true&size=256&format=png" group-title="Variedad",COMEDY CENTRAL
+https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
+#EXTINF:-1 tvg-name="PRIDE TV" tvg-logo="https://ui-avatars.com/api/?name=PRIDE+TV&background=d81b60&color=ffffff&bold=true&size=256&format=png" group-title="Variedad",PRIDE TV
+https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
