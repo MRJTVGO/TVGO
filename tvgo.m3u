@@ -1,129 +1,137 @@
-#EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="TV.LOBOS" tvg-name="TV LOBOS DGO" tvg-logo="https://dummyimage.com/512x512/ff7a00/ffffff.png&text=TV%20LOBOS" group-title="Durango",TV LOBOS Durango
-https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
-#EXTINF:-1 tvg-id="CANAL.10" tvg-name="CANAL 10 DGO" tvg-logo="https://dummyimage.com/512x512/ff7a00/ffffff.png&text=CANAL%2010" group-title="Durango",CANAL 10 Durango
-https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
-#EXTINF:-1 tvg-id="NOTIGRAM" tvg-name="NOTIGRAM DGO" tvg-logo="https://dummyimage.com/512x512/ff7a00/ffffff.png&text=NOTIGRAM" group-title="Durango",NOTIGRAM Durango
-https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
-#EXTINF:-1 tvg-id="MARIA.VISION" tvg-name="MARIA VISION DGO" tvg-logo="https://dummyimage.com/512x512/ff7a00/ffffff.png&text=MARIA%20VISION" group-title="Durango",MARIA VISION Durango
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
-#EXTINF:-1 tvg-id="ADULT.SWIMN" tvg-name="ADULT SWIMN DGO" tvg-logo="https://dummyimage.com/512x512/ff7a00/ffffff.png&text=ADULT%20SWIMN" group-title="Durango",ADULT SWIMN Durango
-http://45.5.119.43:4000/play/a051/index.m3u8
-#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST DGO" tvg-logo="https://dummyimage.com/512x512/ff7a00/ffffff.png&text=TOONCAST" group-title="Durango",TOONCAST Durango
-http://45.5.119.43:4000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-id="ESPA.A" tvg-name="ESPAÑA DGO" tvg-logo="https://dummyimage.com/512x512/ff7a00/ffffff.png&text=ESPA%C3%91A" group-title="Durango",ESPAÑA Durango
-https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
-#EXTINF:-1 tvg-id="CANAL.14" tvg-name="CANAL 14 DGO" tvg-logo="https://dummyimage.com/512x512/ff7a00/ffffff.png&text=CANAL%2014" group-title="Durango",CANAL 14 Durango
-https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
-#EXTINF:-1 tvg-id="PRIDETV" tvg-name="PRIDETV DGO" tvg-logo="https://dummyimage.com/512x512/ff7a00/ffffff.png&text=PRIDETV" group-title="Durango",PRIDETV Durango
-https://backend.energeek.cl/webtv/pridetvweb/tracks-v1a1/mono.ts.m3u8?token=dem0pRideTVweb
-#EXTINF:-1 tvg-id="BITME" tvg-name="BITME DGO" tvg-logo="https://dummyimage.com/512x512/ff7a00/ffffff.png&text=BITME" group-title="Durango",BITME Durango
-http://200.59.188.3:8000/play/a159
-#EXTINF:-1 tvg-id="AZTECA.UNO" tvg-name="AZTECA UNO MX" tvg-logo="https://dummyimage.com/512x512/0066cc/ffffff.png&text=AZTECA%20UNO" group-title="MX",AZTECA UNO MX
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8playlist.m3u8
-#EXTINF:-1 tvg-id="ADN.40" tvg-name="ADN 40 MX" tvg-logo="https://dummyimage.com/512x512/0066cc/ffffff.png&text=ADN%2040" group-title="MX",ADN 40 MX
+#EXTM3U
+# Lista clasificada para Smarters - DGO renombrado como Durango
+
+#EXTINF:-1 tvg-id="ADN40MX" tvg-name="ADN 40 MX" tvg-logo="https://dummyimage.com/600x400/0074D9/ffffff.png&text=ADN+40+MX" group-title="MX",ADN 40 MX
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="LAS.ESTRELLAS" tvg-name="LAS ESTRELLAS MX" tvg-logo="https://dummyimage.com/512x512/0066cc/ffffff.png&text=LAS%20ESTRELLAS" group-title="MX",LAS ESTRELLAS MX
+
+#EXTINF:-1 tvg-id="LasEstrellasMX" tvg-name="LAS ESTRELLAS MX" tvg-logo="https://dummyimage.com/600x400/0074D9/ffffff.png&text=LAS+ESTRELLAS+MX" group-title="MX",LAS ESTRELLAS MX
 http://45.5.119.43:4000/play/a05j/index.m3u8
-#EXTINF:-1 tvg-id="CANAL.CINCO" tvg-name="CANAL CINCO MX" tvg-logo="https://dummyimage.com/512x512/0066cc/ffffff.png&text=CANAL%20CINCO" group-title="MX",CANAL CINCO MX
+
+#EXTINF:-1 tvg-id="CanalCincoMX" tvg-name="CANAL CINCO MX" tvg-logo="https://dummyimage.com/600x400/0074D9/ffffff.png&text=CANAL+CINCO+MX" group-title="MX",CANAL CINCO MX
 http://45.5.119.43:4000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-id="MULTIMEDIOS" tvg-name="MULTIMEDIOS MX" tvg-logo="https://dummyimage.com/512x512/0066cc/ffffff.png&text=MULTIMEDIOS" group-title="MX",MULTIMEDIOS MX
+
+#EXTINF:-1 tvg-id="MultimediosMX" tvg-name="MULTIMEDIOS MX" tvg-logo="https://dummyimage.com/600x400/0074D9/ffffff.png&text=MULTIMEDIOS+MX" group-title="MX",MULTIMEDIOS MX
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-id="MILENIO.TV" tvg-name="MILENIO TV MX" tvg-logo="https://dummyimage.com/512x512/0066cc/ffffff.png&text=MILENIO%20TV" group-title="MX",MILENIO TV MX
+
+#EXTINF:-1 tvg-id="MilenioTVMX" tvg-name="MILENIO TV MX" tvg-logo="https://dummyimage.com/600x400/0074D9/ffffff.png&text=MILENIO+TV+MX" group-title="MX",MILENIO TV MX
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 tvg-id="AZTECA.SIETE" tvg-name="AZTECA SIETE MX" tvg-logo="https://dummyimage.com/512x512/0066cc/ffffff.png&text=AZTECA%20SIETE" group-title="MX",AZTECA SIETE MX
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-id="A.MAS" tvg-name="A+ MAS MX" tvg-logo="https://dummyimage.com/512x512/0066cc/ffffff.png&text=A%2B%20MAS" group-title="MX",A+ MAS MX
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-id="ONCE.MEXICO" tvg-name="ONCE MEXICO MX" tvg-logo="https://dummyimage.com/512x512/0066cc/ffffff.png&text=ONCE%20MEXICO" group-title="MX",ONCE MEXICO MX
-https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
-#EXTINF:-1 tvg-id="UNAM.TV" tvg-name="UNAM TV MX" tvg-logo="https://dummyimage.com/512x512/0066cc/ffffff.png&text=UNAM%20TV" group-title="MX",UNAM TV MX
+
+#EXTINF:-1 tvg-id="UNAMTVMX" tvg-name="UNAM TV MX" tvg-logo="https://dummyimage.com/600x400/0074D9/ffffff.png&text=UNAM+TV+MX" group-title="MX",UNAM TV MX
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
-#EXTINF:-1 tvg-id="AMX.NOTICIAS" tvg-name="AMX NOTICIAS MX" tvg-logo="https://dummyimage.com/512x512/0066cc/ffffff.png&text=AMX%20NOTICIAS" group-title="MX",AMX NOTICIAS MX
+
+#EXTINF:-1 tvg-id="AMXNoticiasMX" tvg-name="AMX NOTICIAS MX" tvg-logo="https://dummyimage.com/600x400/0074D9/ffffff.png&text=AMX+NOTICIAS+MX" group-title="MX",AMX NOTICIAS MX
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-id="IMAGEN.TV" tvg-name="IMAGEN TV MX" tvg-logo="https://dummyimage.com/512x512/0066cc/ffffff.png&text=IMAGEN%20TV" group-title="MX",IMAGEN TV MX
+
+#EXTINF:-1 tvg-id="ImagenTVMX" tvg-name="IMAGEN TV MX" tvg-logo="https://dummyimage.com/600x400/0074D9/ffffff.png&text=IMAGEN+TV+MX" group-title="MX",IMAGEN TV MX
 http://201.151.118.136:8000/play/a001
-#EXTINF:-1 tvg-id="DE.PELICULA" tvg-name="DE PELICULA CINE" tvg-logo="https://dummyimage.com/512x512/7b2cbf/ffffff.png&text=DE%20PELICULA" group-title="CINE",DE PELICULA CINE
-http://45.5.119.43:4000/play/a05n/index.m3u8
-#EXTINF:-1 tvg-id="ADRENALINA" tvg-name="ADRENALINA CINE" tvg-logo="https://dummyimage.com/512x512/7b2cbf/ffffff.png&text=ADRENALINA" group-title="CINE",ADRENALINA CINE
-https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
-#EXTINF:-1 tvg-id="CLASICO" tvg-name="CLASICO CINE" tvg-logo="https://dummyimage.com/512x512/7b2cbf/ffffff.png&text=CLASICO" group-title="CINE",CLASICO CINE
-https://jmp2.uk/plu-64b9671cdac71b0008f371df.m3u8
-#EXTINF:-1 tvg-id="COMEDIA" tvg-name="COMEDIA CINE" tvg-logo="https://dummyimage.com/512x512/7b2cbf/ffffff.png&text=COMEDIA" group-title="CINE",COMEDIA CINE
-https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
-#EXTINF:-1 tvg-id="TERROR" tvg-name="TERROR CINE" tvg-logo="https://dummyimage.com/512x512/7b2cbf/ffffff.png&text=TERROR" group-title="CINE",TERROR CINE
-https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
-#EXTINF:-1 tvg-id="PREMIER" tvg-name="PREMIER CINE" tvg-logo="https://dummyimage.com/512x512/7b2cbf/ffffff.png&text=PREMIER" group-title="CINE",PREMIER CINE
-https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
-#EXTINF:-1 tvg-id="LATINO" tvg-name="LATINO CINE" tvg-logo="https://dummyimage.com/512x512/7b2cbf/ffffff.png&text=LATINO" group-title="CINE",LATINO CINE
-http://45.5.119.43:4000/play/a0ik/index.m3u8
-#EXTINF:-1 tvg-id="SONY" tvg-name="SONY CINE" tvg-logo="https://dummyimage.com/512x512/7b2cbf/ffffff.png&text=SONY" group-title="CINE",SONY CINE
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="SONY.CHANEL" tvg-name="SONY CHANEL CINE" tvg-logo="https://dummyimage.com/512x512/7b2cbf/ffffff.png&text=SONY%20CHANEL" group-title="CINE",SONY CHANEL CINE
-http://45.5.119.43:4000/play/a0hp/index.m3u8
-#EXTINF:-1 tvg-id="GOLDEN" tvg-name="GOLDEN CINE" tvg-logo="https://dummyimage.com/512x512/7b2cbf/ffffff.png&text=GOLDEN" group-title="CINE",GOLDEN CINE
-http://45.5.119.43:4000/play/a0jv/index.m3u8
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO CINE" tvg-logo="https://dummyimage.com/512x512/7b2cbf/ffffff.png&text=HBO" group-title="CINE",HBO CINE
-http://45.5.119.43:4000/play/a0l2/index.m3u8
-#EXTINF:-1 tvg-id="UNIVERSAL.PREMIER" tvg-name="UNIVERSAL PREMIER CINE" tvg-logo="https://dummyimage.com/512x512/7b2cbf/ffffff.png&text=UNIVERSAL%20PREMIER" group-title="CINE",UNIVERSAL PREMIER CINE
-http://45.5.119.43:4000/play/a0i2/index.m3u8
-#EXTINF:-1 tvg-id="TELEFORMULA" tvg-name="TELEFORMULA CABLE" tvg-logo="https://dummyimage.com/512x512/0b7285/ffffff.png&text=TELEFORMULA" group-title="CABLE",TELEFORMULA CABLE
+
+#EXTINF:-1 tvg-id="AmasCable" tvg-name="A+ MAS CABLE" tvg-logo="https://dummyimage.com/600x400/6f42c1/ffffff.png&text=A%2B+MAS+CABLE" group-title="Cable",A+ MAS CABLE
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF:-1 tvg-id="TeleformulaCable" tvg-name="TELEFORMULA CABLE" tvg-logo="https://dummyimage.com/600x400/6f42c1/ffffff.png&text=TELEFORMULA+CABLE" group-title="Cable",TELEFORMULA CABLE
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-id="TELENOVELAS" tvg-name="TELENOVELAS CABLE" tvg-logo="https://dummyimage.com/512x512/0b7285/ffffff.png&text=TELENOVELAS" group-title="CABLE",TELENOVELAS CABLE
+
+#EXTINF:-1 tvg-id="TelenovelasCable" tvg-name="TELENOVELAS CABLE" tvg-logo="https://dummyimage.com/600x400/6f42c1/ffffff.png&text=TELENOVELAS+CABLE" group-title="Cable",TELENOVELAS CABLE
 http://45.5.119.43:4000/play/a05k/index.m3u8
-#EXTINF:-1 tvg-id="CANECTA.TV" tvg-name="CANECTA TV CABLE" tvg-logo="https://dummyimage.com/512x512/0b7285/ffffff.png&text=CANECTA%20TV" group-title="CABLE",CANECTA TV CABLE
-https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
-#EXTINF:-1 tvg-id="TV.MAR" tvg-name="TV MAR CABLE" tvg-logo="https://dummyimage.com/512x512/0b7285/ffffff.png&text=TV%20MAR" group-title="CABLE",TV MAR CABLE
+
+#EXTINF:-1 tvg-id="TVMarCable" tvg-name="TV MAR CABLE" tvg-logo="https://dummyimage.com/600x400/6f42c1/ffffff.png&text=TV+MAR+CABLE" group-title="Cable",TV MAR CABLE
 https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TURISTIK.TV" tvg-name="TURISTIK TV CABLE" tvg-logo="https://dummyimage.com/512x512/0b7285/ffffff.png&text=TURISTIK%20TV" group-title="CABLE",TURISTIK TV CABLE
+
+#EXTINF:-1 tvg-id="TuristikTVCable" tvg-name="TURISTIK TV CABLE" tvg-logo="https://dummyimage.com/600x400/6f42c1/ffffff.png&text=TURISTIK+TV+CABLE" group-title="Cable",TURISTIK TV CABLE
 https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
-#EXTINF:-1 tvg-id="PRESUMIENDO.MX" tvg-name="PRESUMIENDO MX CABLE" tvg-logo="https://dummyimage.com/512x512/0b7285/ffffff.png&text=PRESUMIENDO%20MX" group-title="CABLE",PRESUMIENDO MX CABLE
+
+#EXTINF:-1 tvg-id="PresumiendoMXCable" tvg-name="PRESUMIENDO MX CABLE" tvg-logo="https://dummyimage.com/600x400/6f42c1/ffffff.png&text=PRESUMIENDO+MX+CABLE" group-title="Cable",PRESUMIENDO MX CABLE
 https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SALUD.TV" tvg-name="SALUD TV CABLE" tvg-logo="https://dummyimage.com/512x512/0b7285/ffffff.png&text=SALUD%20TV" group-title="CABLE",SALUD TV CABLE
+
+#EXTINF:-1 tvg-id="SaludTVCable" tvg-name="SALUD TV CABLE" tvg-logo="https://dummyimage.com/600x400/6f42c1/ffffff.png&text=SALUD+TV+CABLE" group-title="Cable",SALUD TV CABLE
 https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/playlist.m3u8
-#EXTINF:-1 tvg-id="UNICABLE" tvg-name="UNICABLE CABLE" tvg-logo="https://dummyimage.com/512x512/0b7285/ffffff.png&text=UNICABLE" group-title="CABLE",UNICABLE CABLE
-http://38.49.128.38:8000/play/a0ov/index.m3u8
-#EXTINF:-1 tvg-id="TELEMUNDO" tvg-name="TELEMUNDO CABLE" tvg-logo="https://dummyimage.com/512x512/0b7285/ffffff.png&text=TELEMUNDO" group-title="CABLE",TELEMUNDO CABLE
+
+#EXTINF:-1 tvg-id="TelemundoCable" tvg-name="TELEMUNDO CABLE" tvg-logo="https://dummyimage.com/600x400/6f42c1/ffffff.png&text=TELEMUNDO+CABLE" group-title="Cable",TELEMUNDO CABLE
 http://45.5.119.43:4000/play/a0gv/index.m3u8
-#EXTINF:-1 tvg-id="UNIVISION" tvg-name="UNIVISION CABLE" tvg-logo="https://dummyimage.com/512x512/0b7285/ffffff.png&text=UNIVISION" group-title="CABLE",UNIVISION CABLE
+
+#EXTINF:-1 tvg-id="UnivisionCable" tvg-name="UNIVISION CABLE" tvg-logo="https://dummyimage.com/600x400/6f42c1/ffffff.png&text=UNIVISION+CABLE" group-title="Cable",UNIVISION CABLE
 http://45.5.119.43:4000/play/a0kr/index.m3u8
-#EXTINF:-1 tvg-id="AZ.MUNDO" tvg-name="AZ MUNDO CABLE" tvg-logo="https://dummyimage.com/512x512/0b7285/ffffff.png&text=AZ%20MUNDO" group-title="CABLE",AZ MUNDO CABLE
+
+#EXTINF:-1 tvg-id="AZMundoCable" tvg-name="AZ MUNDO CABLE" tvg-logo="https://dummyimage.com/600x400/6f42c1/ffffff.png&text=AZ+MUNDO+CABLE" group-title="Cable",AZ MUNDO CABLE
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="AZ.CLICK" tvg-name="AZ CLICK CABLE" tvg-logo="https://dummyimage.com/512x512/0b7285/ffffff.png&text=AZ%20CLICK" group-title="CABLE",AZ CLICK CABLE
+
+#EXTINF:-1 tvg-id="AZClickCable" tvg-name="AZ CLICK CABLE" tvg-logo="https://dummyimage.com/600x400/6f42c1/ffffff.png&text=AZ+CLICK+CABLE" group-title="Cable",AZ CLICK CABLE
 http://45.5.119.43:4000/play/a0gz/index.m3u8
-#EXTINF:-1 tvg-id="AZ.CORAZON" tvg-name="AZ CORAZON CABLE" tvg-logo="https://dummyimage.com/512x512/0b7285/ffffff.png&text=AZ%20CORAZON" group-title="CABLE",AZ CORAZON CABLE
+
+#EXTINF:-1 tvg-id="AZCorazonCable" tvg-name="AZ CORAZON CABLE" tvg-logo="https://dummyimage.com/600x400/6f42c1/ffffff.png&text=AZ+CORAZON+CABLE" group-title="Cable",AZ CORAZON CABLE
 http://45.5.119.43:4000/play/a0g6/index.m3u8
-#EXTINF:-1 tvg-id="COMEDY.CENTRAL" tvg-name="COMEDY CENTRAL CABLE" tvg-logo="https://dummyimage.com/512x512/0b7285/ffffff.png&text=COMEDY%20CENTRAL" group-title="CABLE",COMEDY CENTRAL CABLE
-https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
-#EXTINF:-1 tvg-id="ESTRELLA.TV" tvg-name="ESTRELLA TV CABLE" tvg-logo="https://dummyimage.com/512x512/0b7285/ffffff.png&text=ESTRELLA%20TV" group-title="CABLE",ESTRELLA TV CABLE
+
+#EXTINF:-1 tvg-id="EstrellaTVCable" tvg-name="ESTRELLA TV CABLE" tvg-logo="https://dummyimage.com/600x400/6f42c1/ffffff.png&text=ESTRELLA+TV+CABLE" group-title="Cable",ESTRELLA TV CABLE
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PASIONES.NOVELAS" tvg-name="PASIONES NOVELAS CABLE" tvg-logo="https://dummyimage.com/512x512/0b7285/ffffff.png&text=PASIONES%20NOVELAS" group-title="CABLE",PASIONES NOVELAS CABLE
+
+#EXTINF:-1 tvg-id="PasionesCable" tvg-name="PASIONES CABLE" tvg-logo="https://dummyimage.com/600x400/6f42c1/ffffff.png&text=PASIONES+CABLE" group-title="Cable",PASIONES CABLE
 http://45.5.119.43:4000/play/a0kq/index.m3u8
-#EXTINF:-1 tvg-id="AZTECA.UNO.INTERNACIONAL" tvg-name="AZTECA UNO INTERNACIONAL CABLE" tvg-logo="https://dummyimage.com/512x512/0b7285/ffffff.png&text=AZTECA%20UNO%20INTERNACIONAL" group-title="CABLE",AZTECA UNO INTERNACIONAL CABLE
+
+#EXTINF:-1 tvg-id="AztecaUnoInternacionalCable" tvg-name="AZTECA UNO INTERNACIONAL CABLE" tvg-logo="https://dummyimage.com/600x400/6f42c1/ffffff.png&text=AZTECA+UNO+INTL+CABLE" group-title="Cable",AZTECA UNO INTERNACIONAL CABLE
 http://200.115.96.66:4000/play/a011
-#EXTINF:-1 tvg-id="TELE.RITMO" tvg-name="TELE RITMO MÚSICA" tvg-logo="https://dummyimage.com/512x512/d6336c/ffffff.png&text=TELE%20RITMO" group-title="MÚSICA",TELE RITMO MÚSICA
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-id="EXA.TV" tvg-name="EXA TV MÚSICA" tvg-logo="https://dummyimage.com/512x512/d6336c/ffffff.png&text=EXA%20TV" group-title="MÚSICA",EXA TV MÚSICA
-http://45.5.119.43:4000/play/a0hk/index.m3u8
-#EXTINF:-1 tvg-id="MUSICA.RETRO" tvg-name="MUSICA RETRO MÚSICA" tvg-logo="https://dummyimage.com/512x512/d6336c/ffffff.png&text=MUSICA%20RETRO" group-title="MÚSICA",MUSICA RETRO MÚSICA
-https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV MÚSICA" tvg-logo="https://dummyimage.com/512x512/d6336c/ffffff.png&text=MTV" group-title="MÚSICA",MTV MÚSICA
-https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
-#EXTINF:-1 tvg-id="BANDAMAX" tvg-name="BANDAMAX MÚSICA" tvg-logo="https://dummyimage.com/512x512/d6336c/ffffff.png&text=BANDAMAX" group-title="MÚSICA",BANDAMAX MÚSICA
-http://45.186.105.185:8000/play/a05r/index.m3u8
-#EXTINF:-1 tvg-id="DISNEY" tvg-name="DISNEY KIDS" tvg-logo="https://dummyimage.com/512x512/2b8a3e/ffffff.png&text=DISNEY" group-title="KIDS",DISNEY KIDS
-http://45.5.119.43:4000/play/a0i8/index.m3u8
-#EXTINF:-1 tvg-id="DISNEY.JR" tvg-name="DISNEY JR. KIDS" tvg-logo="https://dummyimage.com/512x512/2b8a3e/ffffff.png&text=DISNEY%20JR." group-title="KIDS",DISNEY JR. KIDS
-http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON KIDS" tvg-logo="https://dummyimage.com/512x512/2b8a3e/ffffff.png&text=NICKELODEON" group-title="KIDS",NICKELODEON KIDS
-https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
-#EXTINF:-1 tvg-id="EL.CHAVO" tvg-name="EL CHAVO 24/7" tvg-logo="https://dummyimage.com/512x512/e03131/ffffff.png&text=EL%20CHAVO" group-title="24/7",EL CHAVO 24/7
+
+#EXTINF:-1 tvg-id="TVLobosDurango" tvg-name="TV LOBOS DURANGO" tvg-logo="https://dummyimage.com/600x400/FFD700/000000.png&text=TV+LOBOS+DURANGO" group-title="Durango",TV LOBOS DURANGO
+https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MariaVisionDurango" tvg-name="MARIA VISION DURANGO" tvg-logo="https://dummyimage.com/600x400/FFD700/000000.png&text=MARIA+VISION+DURANGO" group-title="Durango",MARIA VISION DURANGO
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+
+#EXTINF:-1 tvg-id="ElChavoDurango" tvg-name="EL CHAVO DURANGO" tvg-logo="https://dummyimage.com/600x400/FFD700/000000.png&text=EL+CHAVO+DURANGO" group-title="Durango",EL CHAVO DURANGO
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:-1 tvg-id="CSI" tvg-name="CSI 24/7" tvg-logo="https://dummyimage.com/512x512/e03131/ffffff.png&text=CSI" group-title="24/7",CSI 24/7
-https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8
-#EXTINF:-1 tvg-id="CSI.MIAMI" tvg-name="CSI MIAMI 24/7" tvg-logo="https://dummyimage.com/512x512/e03131/ffffff.png&text=CSI%20MIAMI" group-title="24/7",CSI MIAMI 24/7
-https://jmp2.uk/plu-632b5950b515b000079e6b81.m3u8
-#EXTINF:-1 tvg-id="LAW.ORDER" tvg-name="LAW & ORDER 24/7" tvg-logo="https://dummyimage.com/512x512/e03131/ffffff.png&text=LAW%20%26%20ORDER" group-title="24/7",LAW & ORDER 24/7
-https://jmp2.uk/plu-68758038552299d2b08162e3.m3u8
-#EXTINF:-1 tvg-id="CRIMINAL.MINDS" tvg-name="CRIMINAL MINDS 24/7" tvg-logo="https://dummyimage.com/512x512/e03131/ffffff.png&text=CRIMINAL%20MINDS" group-title="24/7",CRIMINAL MINDS 24/7
-https://jmp2.uk/plu-65653817c917a5000844bc30.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimDurango" tvg-name="ADULT SWIMN DURANGO" tvg-logo="https://dummyimage.com/600x400/FFD700/000000.png&text=ADULT+SWIMN+DURANGO" group-title="Durango",ADULT SWIMN DURANGO
+http://45.5.119.43:4000/play/a051/index.m3u8
+
+#EXTINF:-1 tvg-id="TooncastDurango" tvg-name="TOONCAST DURANGO" tvg-logo="https://dummyimage.com/600x400/FFD700/000000.png&text=TOONCAST+DURANGO" group-title="Durango",TOONCAST DURANGO
+http://45.5.119.43:4000/play/a03k/index.m3u8
+
+#EXTINF:-1 tvg-id="EspanaDurango" tvg-name="ESPAÑA DURANGO" tvg-logo="https://dummyimage.com/600x400/FFD700/000000.png&text=ESPA%C3%91A+DURANGO" group-title="Durango",ESPAÑA DURANGO
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+
+#EXTINF:-1 tvg-id="Canal10Durango" tvg-name="CANAL 10 DURANGO" tvg-logo="https://dummyimage.com/600x400/FFD700/000000.png&text=CANAL+10+DURANGO" group-title="Durango",CANAL 10 DURANGO
+https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NotigramDurango" tvg-name="NOTIGRAM DURANGO" tvg-logo="https://dummyimage.com/600x400/FFD700/000000.png&text=NOTIGRAM+DURANGO" group-title="Durango",NOTIGRAM DURANGO
+https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal14Durango" tvg-name="CANAL 14 DURANGO" tvg-logo="https://dummyimage.com/600x400/FFD700/000000.png&text=CANAL+14+DURANGO" group-title="Durango",CANAL 14 DURANGO
+https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BitmeDurango" tvg-name="BITME DURANGO" tvg-logo="https://dummyimage.com/600x400/FFD700/000000.png&text=BITME+DURANGO" group-title="Durango",BITME DURANGO
+http://200.59.188.3:8000/play/a159
+
+#EXTINF:-1 tvg-id="DePeliculaCine" tvg-name="DE PELICULA CINE" tvg-logo="https://dummyimage.com/600x400/e83e8c/ffffff.png&text=DE+PELICULA+CINE" group-title="Cine",DE PELICULA CINE
+http://45.5.119.43:4000/play/a05n/index.m3u8
+
+#EXTINF:-1 tvg-id="LatinoCine" tvg-name="LATINO CINE" tvg-logo="https://dummyimage.com/600x400/e83e8c/ffffff.png&text=LATINO+CINE" group-title="Cine",LATINO CINE
+http://45.5.119.43:4000/play/a0ik/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyChanelCine" tvg-name="SONY CHANEL CINE" tvg-logo="https://dummyimage.com/600x400/e83e8c/ffffff.png&text=SONY+CHANEL+CINE" group-title="Cine",SONY CHANEL CINE
+http://45.5.119.43:4000/play/a0hp/index.m3u8
+
+#EXTINF:-1 tvg-id="GoldenCine" tvg-name="GOLDEN CINE" tvg-logo="https://dummyimage.com/600x400/e83e8c/ffffff.png&text=GOLDEN+CINE" group-title="Cine",GOLDEN CINE
+http://45.5.119.43:4000/play/a0jv/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOCine" tvg-name="HBO CINE" tvg-logo="https://dummyimage.com/600x400/e83e8c/ffffff.png&text=HBO+CINE" group-title="Cine",HBO CINE
+http://45.5.119.43:4000/play/a0l2/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalPremierCine" tvg-name="UNIVERSAL PREMIER CINE" tvg-logo="https://dummyimage.com/600x400/e83e8c/ffffff.png&text=UNIVERSAL+PREMIER+CINE" group-title="Cine",UNIVERSAL PREMIER CINE
+http://45.5.119.43:4000/play/a0i2/index.m3u8
+
+#EXTINF:-1 tvg-id="PrideTVCine" tvg-name="PRIDETV CINE" tvg-logo="https://dummyimage.com/600x400/e83e8c/ffffff.png&text=PRIDETV+CINE" group-title="Cine",PRIDETV CINE
+https://backend.energeek.cl/webtv/pridetvweb/tracks-v1a1/mono.ts.m3u8?token=dem0pRideTVweb
+
+#EXTINF:-1 tvg-id="TeleRitmoMusica" tvg-name="TELE RITMO MÚSICA" tvg-logo="https://dummyimage.com/600x400/28a745/ffffff.png&text=TELE+RITMO+MUSICA" group-title="Música",TELE RITMO MÚSICA
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-id="ExaTVMusica" tvg-name="EXA TV MÚSICA" tvg-logo="https://dummyimage.com/600x400/28a745/ffffff.png&text=EXA+TV+MUSICA" group-title="Música",EXA TV MÚSICA
+http://45.5.119.43:4000/play/a0hk/index.m3u8
+
+#EXTINF:-1 tvg-id="MusicaRetroMusica" tvg-name="MUSICA RETRO MÚSICA" tvg-logo="https://dummyimage.com/600x400/28a745/ffffff.png&text=MUSICA+RETRO" group-title="Música",MUSICA RETRO MÚSICA
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="DisneyKids" tvg-name="DISNEY KIDS" tvg-logo="https://dummyimage.com/600x400/ff851b/ffffff.png&text=DISNEY+KIDS" group-title="Kids",DISNEY KIDS
+http://45.5.119.43:4000/play/a0i8/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJrKids" tvg-name="DISNEY JR. KIDS" tvg-logo="https://dummyimage.com/600x400/ff851b/ffffff.png&text=DISNEY+JR+KIDS" group-title="Kids",DISNEY JR. KIDS
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
