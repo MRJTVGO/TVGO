@@ -1,505 +1,341 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-name="TV LOBOS" group-title="🟡 DURANGO",🟡 TV LOBOS
-https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
-#EXTINF:-1 tvg-name="MARIA VISION" group-title="🟡 DURANGO",🟡 MARIA VISION
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
-#EXTINF:-1 tvg-name="EL CHAVO" group-title="🟡 DURANGO",🟡 EL CHAVO
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:-1 tvg-name="ESPAÑA" group-title="🟡 DURANGO",🟡 ESPAÑA
-https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
-#EXTINF:-1 tvg-name="CANAL 10" group-title="🟡 DURANGO",🟡 CANAL 10
-https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
-#EXTINF:-1 tvg-name="NOTIGRAM" group-title="🟡 DURANGO",🟡 NOTIGRAM
-https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
-#EXTINF:-1 tvg-name="CANAL 14" group-title="🟡 DURANGO",🟡 CANAL 14
-https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
-
-#EXTINF:-1 tvg-name="adultswim" group-title="📺 DEMÁS CANALES",adultswim
+#EXTINF:-1 tvg-name="adultswim" group-title="OTROS CANALES",adultswim
 https://srregio.online/10326/redirect.php?canal=adultswim&key=srregio.net
-
-#EXTINF:-1 tvg-name="ae" group-title="📺 DEMÁS CANALES",ae
+#EXTINF:-1 tvg-name="ae" group-title="OTROS CANALES",ae
 https://srregio.online/10326/redirect.php?canal=ae&key=srregio.net
-
-#EXTINF:-1 tvg-name="amas" group-title="📺 DEMÁS CANALES",amas
+#EXTINF:-1 tvg-name="amas" group-title="OTROS CANALES",amas
 https://srregio.online/10326/redirect.php?canal=amas&key=srregio.net
-
-#EXTINF:-1 tvg-name="amc" group-title="📺 DEMÁS CANALES",amc
+#EXTINF:-1 tvg-name="amc" group-title="OTROS CANALES",amc
 https://srregio.online/10326/redirect.php?canal=amc&key=srregio.net
-
-#EXTINF:-1 tvg-name="animalplanet" group-title="📺 DEMÁS CANALES",animalplanet
+#EXTINF:-1 tvg-name="animalplanet" group-title="OTROS CANALES",animalplanet
 https://srregio.online/10326/redirect.php?canal=animalplanet&key=srregio.net
-
-#EXTINF:-1 tvg-name="axn" group-title="📺 DEMÁS CANALES",axn
+#EXTINF:-1 tvg-name="axn" group-title="OTROS CANALES",axn
 https://srregio.online/10326/redirect.php?canal=axn&key=srregio.net
-
-#EXTINF:-1 tvg-name="azteca7" group-title="📺 DEMÁS CANALES",azteca7
+#EXTINF:-1 tvg-name="azteca7" group-title="OTROS CANALES",azteca7
 https://srregio.online/10326/redirect.php?canal=azteca7&key=srregio.net
-
-#EXTINF:-1 tvg-name="aztecadeportes" group-title="📺 DEMÁS CANALES",aztecadeportes
+#EXTINF:-1 tvg-name="aztecadeportes" group-title="OTROS CANALES",aztecadeportes
 https://srregio.online/10326/redirect.php?canal=aztecadeportes&key=srregio.net
-
-#EXTINF:-1 tvg-name="aztecauno" group-title="📺 DEMÁS CANALES",aztecauno
+#EXTINF:-1 tvg-name="aztecauno" group-title="OTROS CANALES",aztecauno
 https://srregio.online/10326/redirect.php?canal=aztecauno&key=srregio.net
-
-#EXTINF:-1 tvg-name="BabyFirst" group-title="📺 DEMÁS CANALES",BabyFirst
+#EXTINF:-1 tvg-name="BabyFirst" group-title="OTROS CANALES",BabyFirst
 https://srregio.online/10326/redirect.php?canal=BabyFirst&key=srregio.net
-
-#EXTINF:-1 tvg-name="BabyTV" group-title="📺 DEMÁS CANALES",BabyTV
+#EXTINF:-1 tvg-name="BabyTV" group-title="OTROS CANALES",BabyTV
 https://srregio.online/10326/redirect.php?canal=BabyTV&key=srregio.net
-
-#EXTINF:-1 tvg-name="BitMe" group-title="📺 DEMÁS CANALES",BitMe
+#EXTINF:-1 tvg-name="BitMe" group-title="OTROS CANALES",BitMe
 https://srregio.online/10326/redirect.php?canal=BitMe&key=srregio.net
-
-#EXTINF:-1 tvg-name="BobEsponja-24/7" group-title="📺 DEMÁS CANALES",BobEsponja-24/7
+#EXTINF:-1 tvg-name="BobEsponja-24/7" group-title="OTROS CANALES",BobEsponja-24/7
 https://srregio.online/10326/redirect.php?canal=BobEsponja-24%2F7&key=srregio.net
-
-#EXTINF:-1 tvg-name="Canal 5 MX" group-title="📺 DEMÁS CANALES",Canal 5 MX
+#EXTINF:-1 tvg-name="Canal 5 MX" group-title="OTROS CANALES",Canal 5 MX
 https://srregio.online/10326/redirect.php?canal=Canal%205%20MX&key=srregio.net
-
-#EXTINF:-1 tvg-name="Canal22MX" group-title="📺 DEMÁS CANALES",Canal22MX
+#EXTINF:-1 tvg-name="Canal22MX" group-title="OTROS CANALES",Canal22MX
 https://srregio.online/10326/redirect.php?canal=Canal22MX&key=srregio.net
-
-#EXTINF:-1 tvg-name="Canal 26 Aguascalientes" group-title="📺 DEMÁS CANALES",Canal 26 Aguascalientes
+#EXTINF:-1 tvg-name="Canal 26 Aguascalientes" group-title="OTROS CANALES",Canal 26 Aguascalientes
 https://srregio.online/10326/redirect.php?canal=Canal%2026%20Aguascalientes&key=srregio.net
-
-#EXTINF:-1 tvg-name="Canal Once MX" group-title="📺 DEMÁS CANALES",Canal Once MX
+#EXTINF:-1 tvg-name="Canal Once MX" group-title="OTROS CANALES",Canal Once MX
 https://srregio.online/10326/redirect.php?canal=Canal%20Once%20MX&key=srregio.net
-
-#EXTINF:-1 tvg-name="Caracol" group-title="📺 DEMÁS CANALES",Caracol
+#EXTINF:-1 tvg-name="Caracol" group-title="OTROS CANALES",Caracol
 https://srregio.online/10326/redirect.php?canal=Caracol&key=srregio.net
-
-#EXTINF:-1 tvg-name="Cartoonito" group-title="📺 DEMÁS CANALES",Cartoonito
+#EXTINF:-1 tvg-name="Cartoonito" group-title="OTROS CANALES",Cartoonito
 https://srregio.online/10326/redirect.php?canal=Cartoonito&key=srregio.net
-
-#EXTINF:-1 tvg-name="Cartoon Network" group-title="📺 DEMÁS CANALES",Cartoon Network
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="OTROS CANALES",Cartoon Network
 https://srregio.online/10326/redirect.php?canal=Cartoon%20Network&key=srregio.net
-
-#EXTINF:-1 tvg-name="Cinecanal" group-title="📺 DEMÁS CANALES",Cinecanal
+#EXTINF:-1 tvg-name="Cinecanal" group-title="OTROS CANALES",Cinecanal
 https://srregio.online/10326/redirect.php?canal=Cinecanal&key=srregio.net
-
-#EXTINF:-1 tvg-name="Cine Latino" group-title="📺 DEMÁS CANALES",Cine Latino
+#EXTINF:-1 tvg-name="Cine Latino" group-title="OTROS CANALES",Cine Latino
 https://srregio.online/10326/redirect.php?canal=Cine%20Latino&key=srregio.net
-
-#EXTINF:-1 tvg-name="Cinemax" group-title="📺 DEMÁS CANALES",Cinemax
+#EXTINF:-1 tvg-name="Cinemax" group-title="OTROS CANALES",Cinemax
 https://srregio.online/10326/redirect.php?canal=Cinemax&key=srregio.net
-
-#EXTINF:-1 tvg-name="CINE TERROR" group-title="📺 DEMÁS CANALES",CINE TERROR
+#EXTINF:-1 tvg-name="CINE TERROR" group-title="OTROS CANALES",CINE TERROR
 https://srregio.online/10326/redirect.php?canal=CINE%20TERROR&key=srregio.net
-
-#EXTINF:-1 tvg-name="Claro Cinema" group-title="📺 DEMÁS CANALES",Claro Cinema
+#EXTINF:-1 tvg-name="Claro Cinema" group-title="OTROS CANALES",Claro Cinema
 https://srregio.online/10326/redirect.php?canal=Claro%20Cinema&key=srregio.net
-
-#EXTINF:-1 tvg-name="Claro Musica" group-title="📺 DEMÁS CANALES",Claro Musica
+#EXTINF:-1 tvg-name="Claro Musica" group-title="OTROS CANALES",Claro Musica
 https://srregio.online/10326/redirect.php?canal=Claro%20Musica&key=srregio.net
-
-#EXTINF:-1 tvg-name="CLARO SPORTS" group-title="📺 DEMÁS CANALES",CLARO SPORTS
+#EXTINF:-1 tvg-name="CLARO SPORTS" group-title="OTROS CANALES",CLARO SPORTS
 https://srregio.online/10326/redirect.php?canal=CLARO%20SPORTS&key=srregio.net
-
-#EXTINF:-1 tvg-name="Claro Sports 2" group-title="📺 DEMÁS CANALES",Claro Sports 2
+#EXTINF:-1 tvg-name="Claro Sports 2" group-title="OTROS CANALES",Claro Sports 2
 https://srregio.online/10326/redirect.php?canal=Claro%20Sports%202&key=srregio.net
-
-#EXTINF:-1 tvg-name="COMEDY CENTRAL" group-title="📺 DEMÁS CANALES",COMEDY CENTRAL
+#EXTINF:-1 tvg-name="COMEDY CENTRAL" group-title="OTROS CANALES",COMEDY CENTRAL
 https://srregio.online/10326/redirect.php?canal=COMEDY%20CENTRAL&key=srregio.net
-
-#EXTINF:-1 tvg-name="DE PELICULA" group-title="📺 DEMÁS CANALES",DE PELICULA
+#EXTINF:-1 tvg-name="DE PELICULA" group-title="OTROS CANALES",DE PELICULA
 https://srregio.online/10326/redirect.php?canal=DE%20PELICULA&key=srregio.net
-
-#EXTINF:-1 tvg-name="DHE" group-title="📺 DEMÁS CANALES",DHE
+#EXTINF:-1 tvg-name="DHE" group-title="OTROS CANALES",DHE
 https://srregio.online/10326/redirect.php?canal=DHE&key=srregio.net
-
-#EXTINF:-1 tvg-name="DISCOVERY" group-title="📺 DEMÁS CANALES",DISCOVERY
+#EXTINF:-1 tvg-name="DISCOVERY" group-title="OTROS CANALES",DISCOVERY
 https://srregio.online/10326/redirect.php?canal=DISCOVERY&key=srregio.net
-
-#EXTINF:-1 tvg-name="Discovery Channel" group-title="📺 DEMÁS CANALES",Discovery Channel
+#EXTINF:-1 tvg-name="Discovery Channel" group-title="OTROS CANALES",Discovery Channel
 https://srregio.online/10326/redirect.php?canal=Discovery%20Channel&key=srregio.net
-
-#EXTINF:-1 tvg-name="Discovery en Español" group-title="📺 DEMÁS CANALES",Discovery en Español
+#EXTINF:-1 tvg-name="Discovery en Español" group-title="OTROS CANALES",Discovery en Español
 https://srregio.online/10326/redirect.php?canal=Discovery%20en%20Espa%C3%B1ol&key=srregio.net
-
-#EXTINF:-1 tvg-name="Discovery en Español E" group-title="📺 DEMÁS CANALES",Discovery en Español E
+#EXTINF:-1 tvg-name="Discovery en Español E" group-title="OTROS CANALES",Discovery en Español E
 https://srregio.online/10326/redirect.php?canal=Discovery%20en%20Espa%C3%B1ol%20E&key=srregio.net
-
-#EXTINF:-1 tvg-name="Discovery Familia HQ" group-title="📺 DEMÁS CANALES",Discovery Familia HQ
+#EXTINF:-1 tvg-name="Discovery Familia HQ" group-title="OTROS CANALES",Discovery Familia HQ
 https://srregio.online/10326/redirect.php?canal=Discovery%20Familia%20HQ&key=srregio.net
-
-#EXTINF:-1 tvg-name="Discovery Home & Health" group-title="📺 DEMÁS CANALES",Discovery Home & Health
+#EXTINF:-1 tvg-name="Discovery Home & Health" group-title="OTROS CANALES",Discovery Home & Health
 https://srregio.online/10326/redirect.php?canal=Discovery%20Home%20%26%20Health&key=srregio.net
-
-#EXTINF:-1 tvg-name="Discovery ID" group-title="📺 DEMÁS CANALES",Discovery ID
+#EXTINF:-1 tvg-name="Discovery ID" group-title="OTROS CANALES",Discovery ID
 https://srregio.online/10326/redirect.php?canal=Discovery%20ID&key=srregio.net
-
-#EXTINF:-1 tvg-name="Discovery Kids" group-title="📺 DEMÁS CANALES",Discovery Kids
+#EXTINF:-1 tvg-name="Discovery Kids" group-title="OTROS CANALES",Discovery Kids
 https://srregio.online/10326/redirect.php?canal=Discovery%20Kids&key=srregio.net
-
-#EXTINF:-1 tvg-name="DISCOVERY KIDS MX" group-title="📺 DEMÁS CANALES",DISCOVERY KIDS MX
+#EXTINF:-1 tvg-name="DISCOVERY KIDS MX" group-title="OTROS CANALES",DISCOVERY KIDS MX
 https://srregio.online/10326/redirect.php?canal=DISCOVERY%20KIDS%20MX&key=srregio.net
-
-#EXTINF:-1 tvg-name="Discovery Theater" group-title="📺 DEMÁS CANALES",Discovery Theater
+#EXTINF:-1 tvg-name="Discovery Theater" group-title="OTROS CANALES",Discovery Theater
 https://srregio.online/10326/redirect.php?canal=Discovery%20Theater&key=srregio.net
-
-#EXTINF:-1 tvg-name="Discovery Turbo" group-title="📺 DEMÁS CANALES",Discovery Turbo
+#EXTINF:-1 tvg-name="Discovery Turbo" group-title="OTROS CANALES",Discovery Turbo
 https://srregio.online/10326/redirect.php?canal=Discovery%20Turbo&key=srregio.net
-
-#EXTINF:-1 tvg-name="Discovery World" group-title="📺 DEMÁS CANALES",Discovery World
+#EXTINF:-1 tvg-name="Discovery World" group-title="OTROS CANALES",Discovery World
 https://srregio.online/10326/redirect.php?canal=Discovery%20World&key=srregio.net
-
-#EXTINF:-1 tvg-name="Disney Channel" group-title="📺 DEMÁS CANALES",Disney Channel
+#EXTINF:-1 tvg-name="Disney Channel" group-title="OTROS CANALES",Disney Channel
 https://srregio.online/10326/redirect.php?canal=Disney%20Channel&key=srregio.net
-
-#EXTINF:-1 tvg-name="Disney Junior" group-title="📺 DEMÁS CANALES",Disney Junior
+#EXTINF:-1 tvg-name="Disney Junior" group-title="OTROS CANALES",Disney Junior
 https://srregio.online/10326/redirect.php?canal=Disney%20Junior&key=srregio.net
-
-#EXTINF:-1 tvg-name="Disney XD" group-title="📺 DEMÁS CANALES",Disney XD
+#EXTINF:-1 tvg-name="Disney XD" group-title="OTROS CANALES",Disney XD
 https://srregio.online/10326/redirect.php?canal=Disney%20XD&key=srregio.net
-
-#EXTINF:-1 tvg-name="Distrito Comedia" group-title="📺 DEMÁS CANALES",Distrito Comedia
+#EXTINF:-1 tvg-name="Distrito Comedia" group-title="OTROS CANALES",Distrito Comedia
 https://srregio.online/10326/redirect.php?canal=Distrito%20Comedia&key=srregio.net
-
-#EXTINF:-1 tvg-name="DragonBall 24/7" group-title="📺 DEMÁS CANALES",DragonBall 24/7
+#EXTINF:-1 tvg-name="DragonBall 24/7" group-title="OTROS CANALES",DragonBall 24/7
 https://srregio.online/10326/redirect.php?canal=DragonBall%2024%2F7&key=srregio.net
-
-#EXTINF:-1 tvg-name="DREAMWORKS" group-title="📺 DEMÁS CANALES",DREAMWORKS
+#EXTINF:-1 tvg-name="DREAMWORKS" group-title="OTROS CANALES",DREAMWORKS
 https://srregio.online/10326/redirect.php?canal=DREAMWORKS&key=srregio.net
-
-#EXTINF:-1 tvg-name="E! Entertairment" group-title="📺 DEMÁS CANALES",E! Entertairment
+#EXTINF:-1 tvg-name="E! Entertairment" group-title="OTROS CANALES",E! Entertairment
 https://srregio.online/10326/redirect.php?canal=E%21%20Entertairment&key=srregio.net
-
-#EXTINF:-1 tvg-name="EL CHAVO" group-title="📺 DEMÁS CANALES",EL CHAVO
+#EXTINF:-1 tvg-name="EL CHAVO" group-title="OTROS CANALES",EL CHAVO
 https://srregio.online/10326/redirect.php?canal=EL%20CHAVO&key=srregio.net
-
-#EXTINF:-1 tvg-name="El Gourmet" group-title="📺 DEMÁS CANALES",El Gourmet
+#EXTINF:-1 tvg-name="El Gourmet" group-title="OTROS CANALES",El Gourmet
 https://srregio.online/10326/redirect.php?canal=El%20Gourmet&key=srregio.net
-
-#EXTINF:-1 tvg-name="Energeek Fan" group-title="📺 DEMÁS CANALES",Energeek Fan
+#EXTINF:-1 tvg-name="Energeek Fan" group-title="OTROS CANALES",Energeek Fan
 https://srregio.online/10326/redirect.php?canal=Energeek%20Fan&key=srregio.net
-
-#EXTINF:-1 tvg-name="Energeek Retro" group-title="📺 DEMÁS CANALES",Energeek Retro
+#EXTINF:-1 tvg-name="Energeek Retro" group-title="OTROS CANALES",Energeek Retro
 https://srregio.online/10326/redirect.php?canal=Energeek%20Retro&key=srregio.net
-
-#EXTINF:-1 tvg-name="ent Channel" group-title="📺 DEMÁS CANALES",ent Channel
+#EXTINF:-1 tvg-name="ent Channel" group-title="OTROS CANALES",ent Channel
 https://srregio.online/10326/redirect.php?canal=ent%20Channel&key=srregio.net
-
-#EXTINF:-1 tvg-name="ent Family" group-title="📺 DEMÁS CANALES",ent Family
+#EXTINF:-1 tvg-name="ent Family" group-title="OTROS CANALES",ent Family
 https://srregio.online/10326/redirect.php?canal=ent%20Family&key=srregio.net
-
-#EXTINF:-1 tvg-name="ESPN" group-title="📺 DEMÁS CANALES",ESPN
+#EXTINF:-1 tvg-name="ESPN" group-title="OTROS CANALES",ESPN
 https://srregio.online/10326/redirect.php?canal=ESPN&key=srregio.net
-
-#EXTINF:-1 tvg-name="ESPN + IHD MX" group-title="📺 DEMÁS CANALES",ESPN + IHD MX
+#EXTINF:-1 tvg-name="ESPN + IHD MX" group-title="OTROS CANALES",ESPN + IHD MX
 https://srregio.online/10326/redirect.php?canal=ESPN%20%2B%20IHD%20MX&key=srregio.net
-
-#EXTINF:-1 tvg-name="ESPN 1" group-title="📺 DEMÁS CANALES",ESPN 1
+#EXTINF:-1 tvg-name="ESPN 1" group-title="OTROS CANALES",ESPN 1
 https://srregio.online/10326/redirect.php?canal=ESPN%201&key=srregio.net
-
-#EXTINF:-1 tvg-name="ESPN 2" group-title="📺 DEMÁS CANALES",ESPN 2
+#EXTINF:-1 tvg-name="ESPN 2" group-title="OTROS CANALES",ESPN 2
 https://srregio.online/10326/redirect.php?canal=ESPN%202&key=srregio.net
-
-#EXTINF:-1 tvg-name="ESPN 2 EN HD E" group-title="📺 DEMÁS CANALES",ESPN 2 EN HD E
+#EXTINF:-1 tvg-name="ESPN 2 EN HD E" group-title="OTROS CANALES",ESPN 2 EN HD E
 https://srregio.online/10326/redirect.php?canal=ESPN%202%20EN%20HD%20E&key=srregio.net
-
-#EXTINF:-1 tvg-name="ESPN 3" group-title="📺 DEMÁS CANALES",ESPN 3
+#EXTINF:-1 tvg-name="ESPN 3" group-title="OTROS CANALES",ESPN 3
 https://srregio.online/10326/redirect.php?canal=ESPN%203&key=srregio.net
-
-#EXTINF:-1 tvg-name="ESPN 4" group-title="📺 DEMÁS CANALES",ESPN 4
+#EXTINF:-1 tvg-name="ESPN 4" group-title="OTROS CANALES",ESPN 4
 https://srregio.online/10326/redirect.php?canal=ESPN%204&key=srregio.net
-
-#EXTINF:-1 tvg-name="ESPN 5" group-title="📺 DEMÁS CANALES",ESPN 5
+#EXTINF:-1 tvg-name="ESPN 5" group-title="OTROS CANALES",ESPN 5
 https://srregio.online/10326/redirect.php?canal=ESPN%205&key=srregio.net
-
-#EXTINF:-1 tvg-name="ESPN 6" group-title="📺 DEMÁS CANALES",ESPN 6
+#EXTINF:-1 tvg-name="ESPN 6" group-title="OTROS CANALES",ESPN 6
 https://srregio.online/10326/redirect.php?canal=ESPN%206&key=srregio.net
-
-#EXTINF:-1 tvg-name="ESPN CO" group-title="📺 DEMÁS CANALES",ESPN CO
+#EXTINF:-1 tvg-name="ESPN CO" group-title="OTROS CANALES",ESPN CO
 https://srregio.online/10326/redirect.php?canal=ESPN%20CO&key=srregio.net
-
-#EXTINF:-1 tvg-name="ESPN EN HD E" group-title="📺 DEMÁS CANALES",ESPN EN HD E
+#EXTINF:-1 tvg-name="ESPN EN HD E" group-title="OTROS CANALES",ESPN EN HD E
 https://srregio.online/10326/redirect.php?canal=ESPN%20EN%20HD%20E&key=srregio.net
-
-#EXTINF:-1 tvg-name="ESPNews HD E" group-title="📺 DEMÁS CANALES",ESPNews HD E
+#EXTINF:-1 tvg-name="ESPNews HD E" group-title="OTROS CANALES",ESPNews HD E
 https://srregio.online/10326/redirect.php?canal=ESPNews%20HD%20E&key=srregio.net
-
-#EXTINF:-1 tvg-name="ESPN U HD E" group-title="📺 DEMÁS CANALES",ESPN U HD E
+#EXTINF:-1 tvg-name="ESPN U HD E" group-title="OTROS CANALES",ESPN U HD E
 https://srregio.online/10326/redirect.php?canal=ESPN%20U%20HD%20E&key=srregio.net
-
-#EXTINF:-1 tvg-name="ESTRELLA TV" group-title="📺 DEMÁS CANALES",ESTRELLA TV
+#EXTINF:-1 tvg-name="ESTRELLA TV" group-title="OTROS CANALES",ESTRELLA TV
 https://srregio.online/10326/redirect.php?canal=ESTRELLA%20TV&key=srregio.net
-
-#EXTINF:-1 tvg-name="FOXDEPORTES" group-title="📺 DEMÁS CANALES",FOXDEPORTES
+#EXTINF:-1 tvg-name="FOXDEPORTES" group-title="OTROS CANALES",FOXDEPORTES
 https://srregio.online/10326/redirect.php?canal=FOXDEPORTES&key=srregio.net
-
-#EXTINF:-1 tvg-name="FOX SPORTS 1" group-title="📺 DEMÁS CANALES",FOX SPORTS 1
+#EXTINF:-1 tvg-name="FOX SPORTS 1" group-title="OTROS CANALES",FOX SPORTS 1
 https://srregio.online/10326/redirect.php?canal=FOX%20SPORTS%201&key=srregio.net
-
-#EXTINF:-1 tvg-name="Fox Sports 2" group-title="📺 DEMÁS CANALES",Fox Sports 2
+#EXTINF:-1 tvg-name="Fox Sports 2" group-title="OTROS CANALES",Fox Sports 2
 https://srregio.online/10326/redirect.php?canal=Fox%20Sports%202&key=srregio.net
-
-#EXTINF:-1 tvg-name="Fox Sports 3" group-title="📺 DEMÁS CANALES",Fox Sports 3
+#EXTINF:-1 tvg-name="Fox Sports 3" group-title="OTROS CANALES",Fox Sports 3
 https://srregio.online/10326/redirect.php?canal=Fox%20Sports%203&key=srregio.net
-
-#EXTINF:-1 tvg-name="FX" group-title="📺 DEMÁS CANALES",FX
+#EXTINF:-1 tvg-name="FX" group-title="OTROS CANALES",FX
 https://srregio.online/10326/redirect.php?canal=FX&key=srregio.net
-
-#EXTINF:-1 tvg-name="GOLDE EDGE" group-title="📺 DEMÁS CANALES",GOLDE EDGE
+#EXTINF:-1 tvg-name="GOLDE EDGE" group-title="OTROS CANALES",GOLDE EDGE
 https://srregio.online/10326/redirect.php?canal=GOLDE%20EDGE&key=srregio.net
-
-#EXTINF:-1 tvg-name="Golden" group-title="📺 DEMÁS CANALES",Golden
+#EXTINF:-1 tvg-name="Golden" group-title="OTROS CANALES",Golden
 https://srregio.online/10326/redirect.php?canal=Golden&key=srregio.net
-
-#EXTINF:-1 tvg-name="GOLDEN EDGE" group-title="📺 DEMÁS CANALES",GOLDEN EDGE
+#EXTINF:-1 tvg-name="GOLDEN EDGE" group-title="OTROS CANALES",GOLDEN EDGE
 https://srregio.online/10326/redirect.php?canal=GOLDEN%20EDGE&key=srregio.net
-
-#EXTINF:-1 tvg-name="GOLDEN PLUS" group-title="📺 DEMÁS CANALES",GOLDEN PLUS
+#EXTINF:-1 tvg-name="GOLDEN PLUS" group-title="OTROS CANALES",GOLDEN PLUS
 https://srregio.online/10326/redirect.php?canal=GOLDEN%20PLUS&key=srregio.net
-
-#EXTINF:-1 tvg-name="HBO" group-title="📺 DEMÁS CANALES",HBO
+#EXTINF:-1 tvg-name="HBO" group-title="OTROS CANALES",HBO
 https://srregio.online/10326/redirect.php?canal=HBO&key=srregio.net
-
-#EXTINF:-1 tvg-name="HBO 2" group-title="📺 DEMÁS CANALES",HBO 2
+#EXTINF:-1 tvg-name="HBO 2" group-title="OTROS CANALES",HBO 2
 https://srregio.online/10326/redirect.php?canal=HBO%202&key=srregio.net
-
-#EXTINF:-1 tvg-name="HBO EXTREME" group-title="📺 DEMÁS CANALES",HBO EXTREME
+#EXTINF:-1 tvg-name="HBO EXTREME" group-title="OTROS CANALES",HBO EXTREME
 https://srregio.online/10326/redirect.php?canal=HBO%20EXTREME&key=srregio.net
-
-#EXTINF:-1 tvg-name="HBO Family" group-title="📺 DEMÁS CANALES",HBO Family
+#EXTINF:-1 tvg-name="HBO Family" group-title="OTROS CANALES",HBO Family
 https://srregio.online/10326/redirect.php?canal=HBO%20Family&key=srregio.net
-
-#EXTINF:-1 tvg-name="HBO Plus" group-title="📺 DEMÁS CANALES",HBO Plus
+#EXTINF:-1 tvg-name="HBO Plus" group-title="OTROS CANALES",HBO Plus
 https://srregio.online/10326/redirect.php?canal=HBO%20Plus&key=srregio.net
-
-#EXTINF:-1 tvg-name="HBO PLUS C" group-title="📺 DEMÁS CANALES",HBO PLUS C
+#EXTINF:-1 tvg-name="HBO PLUS C" group-title="OTROS CANALES",HBO PLUS C
 https://srregio.online/10326/redirect.php?canal=HBO%20PLUS%20C&key=srregio.net
-
-#EXTINF:-1 tvg-name="HBO SIGNATURE" group-title="📺 DEMÁS CANALES",HBO SIGNATURE
+#EXTINF:-1 tvg-name="HBO SIGNATURE" group-title="OTROS CANALES",HBO SIGNATURE
 https://srregio.online/10326/redirect.php?canal=HBO%20SIGNATURE&key=srregio.net
-
-#EXTINF:-1 tvg-name="HBO XTREME" group-title="📺 DEMÁS CANALES",HBO XTREME
+#EXTINF:-1 tvg-name="HBO XTREME" group-title="OTROS CANALES",HBO XTREME
 https://srregio.online/10326/redirect.php?canal=HBO%20XTREME&key=srregio.net
-
-#EXTINF:-1 tvg-name="History" group-title="📺 DEMÁS CANALES",History
+#EXTINF:-1 tvg-name="History" group-title="OTROS CANALES",History
 https://srregio.online/10326/redirect.php?canal=History&key=srregio.net
-
-#EXTINF:-1 tvg-name="History 2" group-title="📺 DEMÁS CANALES",History 2
+#EXTINF:-1 tvg-name="History 2" group-title="OTROS CANALES",History 2
 https://srregio.online/10326/redirect.php?canal=History%202&key=srregio.net
-
-#EXTINF:-1 tvg-name="History en Español" group-title="📺 DEMÁS CANALES",History en Español
+#EXTINF:-1 tvg-name="History en Español" group-title="OTROS CANALES",History en Español
 https://srregio.online/10326/redirect.php?canal=History%20en%20Espa%C3%B1ol&key=srregio.net
-
-#EXTINF:-1 tvg-name="Hola TV" group-title="📺 DEMÁS CANALES",Hola TV
+#EXTINF:-1 tvg-name="Hola TV" group-title="OTROS CANALES",Hola TV
 https://srregio.online/10326/redirect.php?canal=Hola%20TV&key=srregio.net
-
-#EXTINF:-1 tvg-name="Home & Health" group-title="📺 DEMÁS CANALES",Home & Health
+#EXTINF:-1 tvg-name="Home & Health" group-title="OTROS CANALES",Home & Health
 https://srregio.online/10326/redirect.php?canal=Home%20%26%20Health&key=srregio.net
-
-#EXTINF:-1 tvg-name="HomeandHealth" group-title="📺 DEMÁS CANALES",HomeandHealth
+#EXTINF:-1 tvg-name="HomeandHealth" group-title="OTROS CANALES",HomeandHealth
 https://srregio.online/10326/redirect.php?canal=HomeandHealth&key=srregio.net
-
-#EXTINF:-1 tvg-name="Imagen TV" group-title="📺 DEMÁS CANALES",Imagen TV
+#EXTINF:-1 tvg-name="Imagen TV" group-title="OTROS CANALES",Imagen TV
 https://srregio.online/10326/redirect.php?canal=Imagen%20TV&key=srregio.net
-
-#EXTINF:-1 tvg-name="IMAGEN TV IHD" group-title="📺 DEMÁS CANALES",IMAGEN TV IHD
+#EXTINF:-1 tvg-name="IMAGEN TV IHD" group-title="OTROS CANALES",IMAGEN TV IHD
 https://srregio.online/10326/redirect.php?canal=IMAGEN%20TV%20IHD&key=srregio.net
-
-#EXTINF:-1 tvg-name="INVESTIGATION DISCOVERY" group-title="📺 DEMÁS CANALES",INVESTIGATION DISCOVERY
+#EXTINF:-1 tvg-name="INVESTIGATION DISCOVERY" group-title="OTROS CANALES",INVESTIGATION DISCOVERY
 https://srregio.online/10326/redirect.php?canal=INVESTIGATION%20DISCOVERY&key=srregio.net
-
-#EXTINF:-1 tvg-name="Las Estrellas MX" group-title="📺 DEMÁS CANALES",Las Estrellas MX
+#EXTINF:-1 tvg-name="Las Estrellas MX" group-title="OTROS CANALES",Las Estrellas MX
 https://srregio.online/10326/redirect.php?canal=Las%20Estrellas%20MX&key=srregio.net
-
-#EXTINF:-1 tvg-name="Lifetime" group-title="📺 DEMÁS CANALES",Lifetime
+#EXTINF:-1 tvg-name="Lifetime" group-title="OTROS CANALES",Lifetime
 https://srregio.online/10326/redirect.php?canal=Lifetime&key=srregio.net
-
-#EXTINF:-1 tvg-name="LOCOMOTION" group-title="📺 DEMÁS CANALES",LOCOMOTION
+#EXTINF:-1 tvg-name="LOCOMOTION" group-title="OTROS CANALES",LOCOMOTION
 https://srregio.online/10326/redirect.php?canal=LOCOMOTION&key=srregio.net
-
-#EXTINF:-1 tvg-name="Los 40 zamora" group-title="📺 DEMÁS CANALES",Los 40 zamora
+#EXTINF:-1 tvg-name="Los 40 zamora" group-title="OTROS CANALES",Los 40 zamora
 https://srregio.online/10326/redirect.php?canal=Los%2040%20zamora&key=srregio.net
-
-#EXTINF:-1 tvg-name="MTV" group-title="📺 DEMÁS CANALES",MTV
+#EXTINF:-1 tvg-name="MTV" group-title="OTROS CANALES",MTV
 https://srregio.online/10326/redirect.php?canal=MTV&key=srregio.net
-
-#EXTINF:-1 tvg-name="Multimedio Laguna" group-title="📺 DEMÁS CANALES",Multimedio Laguna
+#EXTINF:-1 tvg-name="Multimedio Laguna" group-title="OTROS CANALES",Multimedio Laguna
 https://srregio.online/10326/redirect.php?canal=Multimedio%20Laguna&key=srregio.net
-
-#EXTINF:-1 tvg-name="MULTIMEDIOS BAJIO" group-title="📺 DEMÁS CANALES",MULTIMEDIOS BAJIO
+#EXTINF:-1 tvg-name="MULTIMEDIOS BAJIO" group-title="OTROS CANALES",MULTIMEDIOS BAJIO
 https://srregio.online/10326/redirect.php?canal=MULTIMEDIOS%20BAJIO&key=srregio.net
-
-#EXTINF:-1 tvg-name="MULTIMEDIOS CD JUAREZ" group-title="📺 DEMÁS CANALES",MULTIMEDIOS CD JUAREZ
+#EXTINF:-1 tvg-name="MULTIMEDIOS CD JUAREZ" group-title="OTROS CANALES",MULTIMEDIOS CD JUAREZ
 https://srregio.online/10326/redirect.php?canal=MULTIMEDIOS%20CD%20JUAREZ&key=srregio.net
-
-#EXTINF:-1 tvg-name="MULTIMEDIOS CDMX" group-title="📺 DEMÁS CANALES",MULTIMEDIOS CDMX
+#EXTINF:-1 tvg-name="MULTIMEDIOS CDMX" group-title="OTROS CANALES",MULTIMEDIOS CDMX
 https://srregio.online/10326/redirect.php?canal=MULTIMEDIOS%20CDMX&key=srregio.net
-
-#EXTINF:-1 tvg-name="MULTIMEDIOS GUADALAJARA" group-title="📺 DEMÁS CANALES",MULTIMEDIOS GUADALAJARA
+#EXTINF:-1 tvg-name="MULTIMEDIOS GUADALAJARA" group-title="OTROS CANALES",MULTIMEDIOS GUADALAJARA
 https://srregio.online/10326/redirect.php?canal=MULTIMEDIOS%20GUADALAJARA&key=srregio.net
-
-#EXTINF:-1 tvg-name="MULTIMEDIOS LAGUNA" group-title="📺 DEMÁS CANALES",MULTIMEDIOS LAGUNA
+#EXTINF:-1 tvg-name="MULTIMEDIOS LAGUNA" group-title="OTROS CANALES",MULTIMEDIOS LAGUNA
 https://srregio.online/10326/redirect.php?canal=MULTIMEDIOS%20LAGUNA&key=srregio.net
-
-#EXTINF:-1 tvg-name="MULTIMEDIOS MONTERREY" group-title="📺 DEMÁS CANALES",MULTIMEDIOS MONTERREY
+#EXTINF:-1 tvg-name="MULTIMEDIOS MONTERREY" group-title="OTROS CANALES",MULTIMEDIOS MONTERREY
 https://srregio.online/10326/redirect.php?canal=MULTIMEDIOS%20MONTERREY&key=srregio.net
-
-#EXTINF:-1 tvg-name="MULTIMEDIOS PUEBLA" group-title="📺 DEMÁS CANALES",MULTIMEDIOS PUEBLA
+#EXTINF:-1 tvg-name="MULTIMEDIOS PUEBLA" group-title="OTROS CANALES",MULTIMEDIOS PUEBLA
 https://srregio.online/10326/redirect.php?canal=MULTIMEDIOS%20PUEBLA&key=srregio.net
-
-#EXTINF:-1 tvg-name="MULTIMEDIOS SALTILLO" group-title="📺 DEMÁS CANALES",MULTIMEDIOS SALTILLO
+#EXTINF:-1 tvg-name="MULTIMEDIOS SALTILLO" group-title="OTROS CANALES",MULTIMEDIOS SALTILLO
 https://srregio.online/10326/redirect.php?canal=MULTIMEDIOS%20SALTILLO&key=srregio.net
-
-#EXTINF:-1 tvg-name="Multipremier" group-title="📺 DEMÁS CANALES",Multipremier
+#EXTINF:-1 tvg-name="Multipremier" group-title="OTROS CANALES",Multipremier
 https://srregio.online/10326/redirect.php?canal=Multipremier&key=srregio.net
-
-#EXTINF:-1 tvg-name="MULTIPREMIER MP" group-title="📺 DEMÁS CANALES",MULTIPREMIER MP
+#EXTINF:-1 tvg-name="MULTIPREMIER MP" group-title="OTROS CANALES",MULTIPREMIER MP
 https://srregio.online/10326/redirect.php?canal=MULTIPREMIER%20MP&key=srregio.net
-
-#EXTINF:-1 tvg-name="N+" group-title="📺 DEMÁS CANALES",N+
+#EXTINF:-1 tvg-name="N+" group-title="OTROS CANALES",N+
 https://srregio.online/10326/redirect.php?canal=N%2B&key=srregio.net
-
-#EXTINF:-1 tvg-name="N+ GDL" group-title="📺 DEMÁS CANALES",N+ GDL
+#EXTINF:-1 tvg-name="N+ GDL" group-title="OTROS CANALES",N+ GDL
 https://srregio.online/10326/redirect.php?canal=N%2B%20GDL&key=srregio.net
-
-#EXTINF:-1 tvg-name="N+ MEDIA" group-title="📺 DEMÁS CANALES",N+ MEDIA
+#EXTINF:-1 tvg-name="N+ MEDIA" group-title="OTROS CANALES",N+ MEDIA
 https://srregio.online/10326/redirect.php?canal=N%2B%20MEDIA&key=srregio.net
-
-#EXTINF:-1 tvg-name="N+ MTY" group-title="📺 DEMÁS CANALES",N+ MTY
+#EXTINF:-1 tvg-name="N+ MTY" group-title="OTROS CANALES",N+ MTY
 https://srregio.online/10326/redirect.php?canal=N%2B%20MTY&key=srregio.net
-
-#EXTINF:-1 tvg-name="Nat Geo" group-title="📺 DEMÁS CANALES",Nat Geo
+#EXTINF:-1 tvg-name="Nat Geo" group-title="OTROS CANALES",Nat Geo
 https://srregio.online/10326/redirect.php?canal=Nat%20Geo&key=srregio.net
-
-#EXTINF:-1 tvg-name="NICK" group-title="📺 DEMÁS CANALES",NICK
+#EXTINF:-1 tvg-name="NICK" group-title="OTROS CANALES",NICK
 https://srregio.online/10326/redirect.php?canal=NICK&key=srregio.net
-
-#EXTINF:-1 tvg-name="Nick Jr" group-title="📺 DEMÁS CANALES",Nick Jr
+#EXTINF:-1 tvg-name="Nick Jr" group-title="OTROS CANALES",Nick Jr
 https://srregio.online/10326/redirect.php?canal=Nick%20Jr&key=srregio.net
-
-#EXTINF:-1 tvg-name="NickToons" group-title="📺 DEMÁS CANALES",NickToons
+#EXTINF:-1 tvg-name="NickToons" group-title="OTROS CANALES",NickToons
 https://srregio.online/10326/redirect.php?canal=NickToons&key=srregio.net
-
-#EXTINF:-1 tvg-name="NU9VE" group-title="📺 DEMÁS CANALES",NU9VE
+#EXTINF:-1 tvg-name="NU9VE" group-title="OTROS CANALES",NU9VE
 https://srregio.online/10326/redirect.php?canal=NU9VE&key=srregio.net
-
-#EXTINF:-1 tvg-name="ONCE NIÑAS Y NIÑOS" group-title="📺 DEMÁS CANALES",ONCE NIÑAS Y NIÑOS
+#EXTINF:-1 tvg-name="ONCE NIÑAS Y NIÑOS" group-title="OTROS CANALES",ONCE NIÑAS Y NIÑOS
 https://srregio.online/10326/redirect.php?canal=ONCE%20NI%C3%91AS%20Y%20NI%C3%91OS&key=srregio.net
-
-#EXTINF:-1 tvg-name="Paramount" group-title="📺 DEMÁS CANALES",Paramount
+#EXTINF:-1 tvg-name="Paramount" group-title="OTROS CANALES",Paramount
 https://srregio.online/10326/redirect.php?canal=Paramount&key=srregio.net
-
-#EXTINF:-1 tvg-name="Pasiones" group-title="📺 DEMÁS CANALES",Pasiones
+#EXTINF:-1 tvg-name="Pasiones" group-title="OTROS CANALES",Pasiones
 https://srregio.online/10326/redirect.php?canal=Pasiones&key=srregio.net
-
-#EXTINF:-1 tvg-name="Pop Corn Central" group-title="📺 DEMÁS CANALES",Pop Corn Central
+#EXTINF:-1 tvg-name="Pop Corn Central" group-title="OTROS CANALES",Pop Corn Central
 https://srregio.online/10326/redirect.php?canal=Pop%20Corn%20Central&key=srregio.net
-
-#EXTINF:-1 tvg-name="Pánico" group-title="📺 DEMÁS CANALES",Pánico
+#EXTINF:-1 tvg-name="Pánico" group-title="OTROS CANALES",Pánico
 https://srregio.online/10326/redirect.php?canal=P%C3%A1nico&key=srregio.net
-
-#EXTINF:-1 tvg-name="RCN Novelas" group-title="📺 DEMÁS CANALES",RCN Novelas
+#EXTINF:-1 tvg-name="RCN Novelas" group-title="OTROS CANALES",RCN Novelas
 https://srregio.online/10326/redirect.php?canal=RCN%20Novelas&key=srregio.net
-
-#EXTINF:-1 tvg-name="RT EN ESPAÑOL" group-title="📺 DEMÁS CANALES",RT EN ESPAÑOL
+#EXTINF:-1 tvg-name="RT EN ESPAÑOL" group-title="OTROS CANALES",RT EN ESPAÑOL
 https://srregio.online/10326/redirect.php?canal=RT%20EN%20ESPA%C3%91OL&key=srregio.net
-
-#EXTINF:-1 tvg-name="Sky Sports La Liga" group-title="📺 DEMÁS CANALES",Sky Sports La Liga
+#EXTINF:-1 tvg-name="Sky Sports La Liga" group-title="OTROS CANALES",Sky Sports La Liga
 https://srregio.online/10326/redirect.php?canal=Sky%20Sports%20La%20Liga&key=srregio.net
-
-#EXTINF:-1 tvg-name="Sonic" group-title="📺 DEMÁS CANALES",Sonic
+#EXTINF:-1 tvg-name="Sonic" group-title="OTROS CANALES",Sonic
 https://srregio.online/10326/redirect.php?canal=Sonic&key=srregio.net
-
-#EXTINF:-1 tvg-name="Sony" group-title="📺 DEMÁS CANALES",Sony
+#EXTINF:-1 tvg-name="Sony" group-title="OTROS CANALES",Sony
 https://srregio.online/10326/redirect.php?canal=Sony&key=srregio.net
-
-#EXTINF:-1 tvg-name="Space" group-title="📺 DEMÁS CANALES",Space
+#EXTINF:-1 tvg-name="Space" group-title="OTROS CANALES",Space
 https://srregio.online/10326/redirect.php?canal=Space&key=srregio.net
-
-#EXTINF:-1 tvg-name="Star Channel" group-title="📺 DEMÁS CANALES",Star Channel
+#EXTINF:-1 tvg-name="Star Channel" group-title="OTROS CANALES",Star Channel
 https://srregio.online/10326/redirect.php?canal=Star%20Channel&key=srregio.net
-
-#EXTINF:-1 tvg-name="Studio Universal" group-title="📺 DEMÁS CANALES",Studio Universal
+#EXTINF:-1 tvg-name="Studio Universal" group-title="OTROS CANALES",Studio Universal
 https://srregio.online/10326/redirect.php?canal=Studio%20Universal&key=srregio.net
-
-#EXTINF:-1 tvg-name="STUDIO UNIVERSAL IHD" group-title="📺 DEMÁS CANALES",STUDIO UNIVERSAL IHD
+#EXTINF:-1 tvg-name="STUDIO UNIVERSAL IHD" group-title="OTROS CANALES",STUDIO UNIVERSAL IHD
 https://srregio.online/10326/redirect.php?canal=STUDIO%20UNIVERSAL%20IHD&key=srregio.net
-
-#EXTINF:-1 tvg-name="TCM" group-title="📺 DEMÁS CANALES",TCM
+#EXTINF:-1 tvg-name="TCM" group-title="OTROS CANALES",TCM
 https://srregio.online/10326/redirect.php?canal=TCM&key=srregio.net
-
-#EXTINF:-1 tvg-name="Teleformula" group-title="📺 DEMÁS CANALES",Teleformula
+#EXTINF:-1 tvg-name="Teleformula" group-title="OTROS CANALES",Teleformula
 https://srregio.online/10326/redirect.php?canal=Teleformula&key=srregio.net
-
-#EXTINF:-1 tvg-name="Telemundo" group-title="📺 DEMÁS CANALES",Telemundo
+#EXTINF:-1 tvg-name="Telemundo" group-title="OTROS CANALES",Telemundo
 https://srregio.online/10326/redirect.php?canal=Telemundo&key=srregio.net
-
-#EXTINF:-1 tvg-name="Telemundo 51" group-title="📺 DEMÁS CANALES",Telemundo 51
+#EXTINF:-1 tvg-name="Telemundo 51" group-title="OTROS CANALES",Telemundo 51
 https://srregio.online/10326/redirect.php?canal=Telemundo%2051&key=srregio.net
-
-#EXTINF:-1 tvg-name="TELEMUNDO INTERNACIONAL" group-title="📺 DEMÁS CANALES",TELEMUNDO INTERNACIONAL
+#EXTINF:-1 tvg-name="TELEMUNDO INTERNACIONAL" group-title="OTROS CANALES",TELEMUNDO INTERNACIONAL
 https://srregio.online/10326/redirect.php?canal=TELEMUNDO%20INTERNACIONAL&key=srregio.net
-
-#EXTINF:-1 tvg-name="Telemundo Miami" group-title="📺 DEMÁS CANALES",Telemundo Miami
+#EXTINF:-1 tvg-name="Telemundo Miami" group-title="OTROS CANALES",Telemundo Miami
 https://srregio.online/10326/redirect.php?canal=Telemundo%20Miami&key=srregio.net
-
-#EXTINF:-1 tvg-name="Telemundo PR" group-title="📺 DEMÁS CANALES",Telemundo PR
+#EXTINF:-1 tvg-name="Telemundo PR" group-title="OTROS CANALES",Telemundo PR
 https://srregio.online/10326/redirect.php?canal=Telemundo%20PR&key=srregio.net
-
-#EXTINF:-1 tvg-name="TELEMUNDO PUERTO RICO" group-title="📺 DEMÁS CANALES",TELEMUNDO PUERTO RICO
+#EXTINF:-1 tvg-name="TELEMUNDO PUERTO RICO" group-title="OTROS CANALES",TELEMUNDO PUERTO RICO
 https://srregio.online/10326/redirect.php?canal=TELEMUNDO%20PUERTO%20RICO&key=srregio.net
-
-#EXTINF:-1 tvg-name="Telenovelas" group-title="📺 DEMÁS CANALES",Telenovelas
+#EXTINF:-1 tvg-name="Telenovelas" group-title="OTROS CANALES",Telenovelas
 https://srregio.online/10326/redirect.php?canal=Telenovelas&key=srregio.net
-
-#EXTINF:-1 tvg-name="TELERITMO" group-title="📺 DEMÁS CANALES",TELERITMO
+#EXTINF:-1 tvg-name="TELERITMO" group-title="OTROS CANALES",TELERITMO
 https://srregio.online/10326/redirect.php?canal=TELERITMO&key=srregio.net
-
-#EXTINF:-1 tvg-name="TLC" group-title="📺 DEMÁS CANALES",TLC
+#EXTINF:-1 tvg-name="TLC" group-title="OTROS CANALES",TLC
 https://srregio.online/10326/redirect.php?canal=TLC&key=srregio.net
-
-#EXTINF:-1 tvg-name="TLC HD Latino" group-title="📺 DEMÁS CANALES",TLC HD Latino
+#EXTINF:-1 tvg-name="TLC HD Latino" group-title="OTROS CANALES",TLC HD Latino
 https://srregio.online/10326/redirect.php?canal=TLC%20HD%20Latino&key=srregio.net
-
-#EXTINF:-1 tvg-name="TLNOVELAS" group-title="📺 DEMÁS CANALES",TLNOVELAS
+#EXTINF:-1 tvg-name="TLNOVELAS" group-title="OTROS CANALES",TLNOVELAS
 https://srregio.online/10326/redirect.php?canal=TLNOVELAS&key=srregio.net
-
-#EXTINF:-1 tvg-name="TNT" group-title="📺 DEMÁS CANALES",TNT
+#EXTINF:-1 tvg-name="TNT" group-title="OTROS CANALES",TNT
 https://srregio.online/10326/redirect.php?canal=TNT&key=srregio.net
-
-#EXTINF:-1 tvg-name="TNT Latino HD c" group-title="📺 DEMÁS CANALES",TNT Latino HD c
+#EXTINF:-1 tvg-name="TNT Latino HD c" group-title="OTROS CANALES",TNT Latino HD c
 https://srregio.online/10326/redirect.php?canal=TNT%20Latino%20HD%20c&key=srregio.net
-
-#EXTINF:-1 tvg-name="TNT Series" group-title="📺 DEMÁS CANALES",TNT Series
+#EXTINF:-1 tvg-name="TNT Series" group-title="OTROS CANALES",TNT Series
 https://srregio.online/10326/redirect.php?canal=TNT%20Series&key=srregio.net
-
-#EXTINF:-1 tvg-name="Tooncast" group-title="📺 DEMÁS CANALES",Tooncast
+#EXTINF:-1 tvg-name="Tooncast" group-title="OTROS CANALES",Tooncast
 https://srregio.online/10326/redirect.php?canal=Tooncast&key=srregio.net
-
-#EXTINF:-1 tvg-name="Total Music" group-title="📺 DEMÁS CANALES",Total Music
+#EXTINF:-1 tvg-name="Total Music" group-title="OTROS CANALES",Total Music
 https://srregio.online/10326/redirect.php?canal=Total%20Music&key=srregio.net
-
-#EXTINF:-1 tvg-name="Total Music 00s" group-title="📺 DEMÁS CANALES",Total Music 00s
+#EXTINF:-1 tvg-name="Total Music 00s" group-title="OTROS CANALES",Total Music 00s
 https://srregio.online/10326/redirect.php?canal=Total%20Music%2000s&key=srregio.net
-
-#EXTINF:-1 tvg-name="Total Music 80s" group-title="📺 DEMÁS CANALES",Total Music 80s
+#EXTINF:-1 tvg-name="Total Music 80s" group-title="OTROS CANALES",Total Music 80s
 https://srregio.online/10326/redirect.php?canal=Total%20Music%2080s&key=srregio.net
-
-#EXTINF:-1 tvg-name="TUDN MX" group-title="📺 DEMÁS CANALES",TUDN MX
+#EXTINF:-1 tvg-name="TUDN MX" group-title="OTROS CANALES",TUDN MX
 https://srregio.online/10326/redirect.php?canal=TUDN%20MX&key=srregio.net
-
-#EXTINF:-1 tvg-name="TyC" group-title="📺 DEMÁS CANALES",TyC
+#EXTINF:-1 tvg-name="TyC" group-title="OTROS CANALES",TyC
 https://srregio.online/10326/redirect.php?canal=TyC&key=srregio.net
-
-#EXTINF:-1 tvg-name="UNIMASX" group-title="📺 DEMÁS CANALES",UNIMASX
+#EXTINF:-1 tvg-name="UNIMASX" group-title="OTROS CANALES",UNIMASX
 https://srregio.online/10326/redirect.php?canal=UNIMASX&key=srregio.net
-
-#EXTINF:-1 tvg-name="Universal" group-title="📺 DEMÁS CANALES",Universal
+#EXTINF:-1 tvg-name="Universal" group-title="OTROS CANALES",Universal
 https://srregio.online/10326/redirect.php?canal=Universal&key=srregio.net
-
-#EXTINF:-1 tvg-name="Univision" group-title="📺 DEMÁS CANALES",Univision
+#EXTINF:-1 tvg-name="Univision" group-title="OTROS CANALES",Univision
 https://srregio.online/10326/redirect.php?canal=Univision&key=srregio.net
-
-#EXTINF:-1 tvg-name="Warner" group-title="📺 DEMÁS CANALES",Warner
+#EXTINF:-1 tvg-name="Warner" group-title="OTROS CANALES",Warner
 https://srregio.online/10326/redirect.php?canal=Warner&key=srregio.net
-
-#EXTINF:-1 tvg-name="WIN +" group-title="📺 DEMÁS CANALES",WIN +
+#EXTINF:-1 tvg-name="WIN +" group-title="OTROS CANALES",WIN +
 https://srregio.online/10326/redirect.php?canal=WIN%20%2B&key=srregio.net
-
-#EXTINF:-1 tvg-name="WIN SPORTS" group-title="📺 DEMÁS CANALES",WIN SPORTS
+#EXTINF:-1 tvg-name="WIN SPORTS" group-title="OTROS CANALES",WIN SPORTS
 https://srregio.online/10326/redirect.php?canal=WIN%20SPORTS&key=srregio.net
+#EXTINF:-1 tvg-name="TV LOBOS" group-title="DURANGO",TV LOBOS
+https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
+#EXTINF:-1 tvg-name="MARIA VISION" group-title="DURANGO",MARIA VISION
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+#EXTINF:-1 tvg-name="EL CHAVO" group-title="DURANGO",EL CHAVO
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPAÑA" group-title="DURANGO",ESPAÑA
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+#EXTINF:-1 tvg-name="CANAL 10" group-title="DURANGO",CANAL 10
+https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
+#EXTINF:-1 tvg-name="NOTIGRAM" group-title="DURANGO",NOTIGRAM
+https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
+#EXTINF:-1 tvg-name="CANAL 14" group-title="DURANGO",CANAL 14
+https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
